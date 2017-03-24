@@ -1,5 +1,6 @@
 import codecs
 from collections import Counter
+import random
 
 
 def valid_word(word):
@@ -68,10 +69,30 @@ def test(data_file):
     print 'size: ', len(dic) - cnt
 
 
+def make_csv(data_file):
+    messages = list()
+    for line in codecs.open(data_file, 'r', 'utf8'):
+        line = line.strip()
+        messages.append(line)
+    random.shuffle(messages)
+    train_size = len(messages)/5 * 4
+    train_writer = codecs.open('train.csv', 'w', 'utf8')
+    test_writer = codecs.open('test.csv', 'w', 'utf8')
+    for line in messages[:train_size]:
+        (message, lable) = line.split('\t')
+        train_writer.write('"' + lable + '","' + message + '"\n')
+    train_writer.close()
+    for line in messages[train_size:]:
+        (message, lable) = line.split('\t')
+        test_writer.write('"' + lable + '","' + message + '"\n')
+    test_writer.close()
+
+
 def main():
     data_file = 'chat.txt'
-    test(data_file)
+    # test(data_file)
     # get_dic()
+    make_csv(data_file)
 
 
 if __name__ == '__main__':

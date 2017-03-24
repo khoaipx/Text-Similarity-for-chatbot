@@ -366,7 +366,7 @@ alo	1
 Hi	1
 Alo	1
 Đi chơi	1
-Làm que  không	1
+Làm que  không	0
 Quy nhon	1
 Kỳ co	1
 Hà nội	1
@@ -402,12 +402,12 @@ mình đi từ 2 láng hạ cơ	1
 không	1
 bye	1
 mình đặt xe đi ngày mai đến 3 thái hà từ 2 láng hà băng xe riêng 4 chỗ	1
-cong hoa xa hoi chu nghia	1
+cong hoa xa hoi chu nghia	0
 Chào bạn	1
 Bye	1
 Chào bạn	1
 Chào bạn	1
-mình muốn test thử chức năng bot	1
+mình muốn test thử chức năng bot	0
 mình muốn đặt thử xe	1
 đặt xe	1
 mai	1
@@ -431,8 +431,8 @@ minh ve ngay 21/3 luc 6g	1
 30/3 luc 20h	1
 khong	1
 xin chào	1
-bạn bot à	1
-bạn là bot à	1
+bạn bot à	0
+bạn là bot à	0
 Hello dud	1
 Toi muon lam tai xe, quy trinh dang ky nhu the nao ?	1
 Ok, em dung cong nghe gi the ?	1
@@ -478,9 +478,9 @@ Cao cấp	1
 Hà nội	1
 bạn cho đặt xe	1
 alo	1
-sắp rồi bot ơi	1
-bot mà biết hỏi thăm	1
-=))	1
+sắp rồi bot ơi	0
+bot mà biết hỏi thăm	0
+=))	0
 bạn giúp mình đặt xe được không?	1
 giup đặt xe đi	1
 bye	1
@@ -562,7 +562,7 @@ mình đi luôn chiều nay lúc 17h	1
 QUANG TRUNG, TÂY SƠN, TP. TAM ĐIỆP, NINH BÌNH	1
 thôi	1
 không	1
-anh đẩu?	1
+anh đẩu?	0
 cũng đặt được	1
 alo	1
 xin chào	1
@@ -602,7 +602,7 @@ ngày mai luôn	1
 ko	1
 ok	1
 ok	1
-ok. Nhắn anh team 123xe nhớ hoàn thiện BOT ngon hơn nhé	1
+ok. Nhắn anh team 123xe nhớ hoàn thiện BOT ngon hơn nhé	0
 khá tốt đó	1
 Hi	1
 Chào bạn	1
@@ -613,7 +613,7 @@ Bye	1
 chào bạn	1
 ko	1
 uh	1
-xin hoi ban ten gi	1
+xin hoi ban ten gi	0
 hi	1
 bạn có những chức năng gì	1
 tôi phải đặt xe như thế nào	1
@@ -637,10 +637,10 @@ tôi muốn đi xe riêng	1
 16 chỗ vậy	1
 tiền nong thế nào	1
 tôi đã đặt ngày đâu	1
-cập nhật lại kiểu j	1
-😗😗😗	1
+cập nhật lại kiểu j	0
+😗😗😗	0
 cập nhật lại	1
-😡	1
+😡	0
 bye	1
 tôi có thể làm những gì	1
 đặt xe 16 chỗ cho tôi	1
@@ -663,10 +663,10 @@ tôi muốn đi vào ngày 08/03/2017	1
 8h ngày 30/04	1
 uh	1
 bye	1
-😄	1
+😄	0
 oke	1
 Chào 123	1
-yeah	1
+yeah	0
 Chào 123Xe	1
 mình muốn đặt xe đi nha trang ngày 21/4	1
 đi chung	1
@@ -690,8 +690,8 @@ làm sao mình biết được xe khách có bao nhiêu chỗ	1
 không	1
 không	1
 mình đi Nha Trang mà	1
-oi	1
-căng quá bot ơi	1
+oi	0
+căng quá bot ơi	0
 bot?	1
 hello	1
 chào	1
@@ -711,7 +711,7 @@ Tam Hồng Yên Lạc Vĩnh Phúc	1
 200	1
 200	1
 45	1
-đang suy nghĩ	1
+đang suy nghĩ	0
 không có	1
 có không	1
 tôi muốn đi vòng lên Hà Nội	1
@@ -719,10 +719,10 @@ Hà Nội	1
 Hoàng Quốc Việt Cầu Giấy Hà Nội	1
 tôi không muốn đặt nữa	1
 bye	1
-chúc 123xe ngủ ngon nhé :v	1
+chúc 123xe ngủ ngon nhé :v	0
 ok	1
 hello	1
-ai là người lập trình bạn	1
+ai là người lập trình bạn	0
 đặt xe	1
 bye	1
 hello	1
@@ -750,15 +750,15 @@ Hà nội 15h 9/3/2017	1
 1	1
 Ko cần	1
 Ko	1
-Mình rất đẹp trai	1
+Mình rất đẹp trai	0
 Ok	1
 ok	1
-Ahihi	1
-Good	1
+Ahihi	0
+Good	0
 Hi	1
 Nothing	1
-T tên là Dương Hồ Minh Tú	1
-Đã hỏi đâu	1
+T tên là Dương Hồ Minh Tú	0
+Đã hỏi đâu	0
 Tôi muốn đi xe 4 chỗ đến Nghệ An	1
 Từ Bến xe nước ngầm hà nội	1
 Thị trấn cầu giát quỳnh lưu nghệ an	1
@@ -769,7 +769,7 @@ No	1
 Ko	1
 ok	1
 ok	1
-Mẹc xi	1
+Mẹc xi	0
 alo	1
 hi	1
 Uh	1
@@ -836,11 +836,11 @@ xe riêng cao cấp	1
 xe riêng	1
 4	1
 khong	1
-kho	1
+kho	0
 alo	1
 chao	1
-dkfjsl	1
-xem lai don hang	1
+dkfjsl	0
+xem lai don hang	0
 cua hang Mai Tới Hà Nội cơ	1
 ok	1
 Chào 123xe	1
@@ -851,20 +851,20 @@ VNG LÊ ĐẠI HÀNH	1
 Flemington Tower, 182 Lê Đại Hành, phường 15, Hồ Chí Minh	1
 chùa thầy	1
 Cao cấp	1
-4 chôz	1
+4 chôz	0
 Tính giá tiền cho mình	1
 Mình muốn biết trước chi phí. Ngày khởi hành lựa chọn sau	1
 Hủy	1
 Hủy chuyến	1
-Test bot	1
+Test bot	0
 By	1
 Bye	1
-Test bot.	1
+Test bot.	0
 Thanks	1
 Chào 123xe	1
 Đặt xe	1
 Hồ Chính Minh đến Hà Nội	1
-Xe 4 chôz	1
+Xe 4 chôz	0
 Flemington tower	1
 Cấn biết báo giá tiền	1
 12	1
@@ -878,7 +878,7 @@ Hủy	1
 Hủy xe	1
 Bye	1
 123xe tiện ích như thế nào ?	1
-Test bot.	1
+Test bot.	0
 Giúp anh đặt xe đi em	1
 Anh muốn đến trường cấp 3 tiên lữ	1
 Anh đi từ 5 thái hà	1
@@ -913,8 +913,8 @@ alo	1
 Thủ tục đăng ký làm tài xế cho 123Xe thế nào?	1
 Hi	1
 Tôi muốn tham gia 123xe	1
-sdjllldsjflk	1
-Ngon ko	1
+sdjllldsjflk	0
+Ngon ko	0
 Alo	1
 Giúp đặt xe	1
 Ngày mai	1
@@ -923,11 +923,11 @@ Ngày mai	1
 3 Láng Hạ, Đống Đa, Hà Nội	1
 2 thái hà	1
 2, Đường Thái Hà, Quận Đống Đa, Hà Nội	1
-Hilo	1
+Hilo	0
 Chọn xe đi chung cho 4 người	1
 Không	1
 Ko	1
-Tôi chỉ thư hệ thống tí thôi	1
+Tôi chỉ thư hệ thống tí thôi	0
 Bye	1
 Cho tôi đặt xe	1
 30/3	1
@@ -1006,19 +1006,19 @@ TÔi không muốn đặt xe	1
 Không muốn đặt xe chứ không phải là muốn đặt xe	1
 Tôi không muốn đi xe	1
 Đã nói không muốn đặt xe cơ mà	1
-Ai chả biết, nhưng có đi xe đâu, đang muốn hỏi thăm tý ko được ah?	1
-Đùa ấy ah? Muốn hỏi thăm xem dạo này khỏe không, xe cộ gì? Nhà đầy xe!	1
+Ai chả biết, nhưng có đi xe đâu, đang muốn hỏi thăm tý ko được ah?	0
+Đùa ấy ah? Muốn hỏi thăm xem dạo này khỏe không, xe cộ gì? Nhà đầy xe!	0
 Thôi được rồi, đi không riêng!	1
 Không phải, tôi muốn đi các loại không phải đi riêng ấy	1
 Khởi hành ah, đâu cũng được, tùy bên ấy đón	1
 Không trung	1
 Điên ah, ở Hà Nội	1
 Không đi nữa!	1
-Không trả lời khách ah	1
+Không trả lời khách ah	0
 Bye!	1
-Đã dùng đâu	1
-Đùa tý thôi	1
-Kiẻm tra AI của hệ thống tý mà	1
+Đã dùng đâu	0
+Đùa tý thôi	0
+Kiẻm tra AI của hệ thống tý mà	0
 Giúp anh đặt một chuyến đi chung cho 2 vợ chộng vào ngày mai tới sa pa nhé	1
 8h sáng đi	1
 anh đi từ hà nội	1
@@ -1107,9 +1107,9 @@ anh về luôn lúc 22h cùng ngày	1
 Đón anh đúng giờ	1
 đặt giúp anh	1
 đúng hết rồi, đặt giúp anh đi	1
-a	1
-cái gì cưo	1
-fadfafd	1
+a	0
+cái gì cưo	0
+fadfafd	0
 hello	1
 hello	1
 đặt xe	1
@@ -1123,7 +1123,7 @@ không	1
 không	1
 Phường Tiền An, thành phố bắc ninh	1
 hà nội	1
-đã check tới đây	1
+đã check tới đây	0
 chào em	1
 giá bên em thế nào? có đắt không?	1
 vậy đặt giúp anh một xe cao cấp 4 chỗ tới trường cấp 3 tiên lữ vào chiều mai lúc 17h30	1
@@ -1131,11 +1131,11 @@ vậy đặt giúp anh một xe cao cấp 4 chỗ tới trường cấp 3 tiên 
 Anh đi xe cao cấp 4 chỗ	1
 Có anh về ngày 20/3 lúc 6h	1
 20/3	1
-Đón đúng giờ không anh muộn làm xếp trừ lương	1
+Đón đúng giờ không anh muộn làm xếp trừ lương	0
 ok	1
 Hi	1
-Ổn chưa	1
-Ổn hơn chưa?	1
+Ổn chưa	0
+Ổn hơn chưa?	0
 Đồng ý đặt xe	1
 Có những loại xe nào? Giá bao nhiêu bạn?	1
 Cho anh đặt xe rieng 4 chỗ đi từ Hồ Gươm tới Chùa Hương vào 8h sáng mai nhé	1
@@ -1195,8 +1195,8 @@ Chiêu, Tam Thanh, Tân Sơn, Phú Thọ	1
 Không	1
 Không	1
 ok	1
-test	1
-ối	1
+test	0
+ối	0
 alo	1
 cam on ba da o day	1
 bạn có những khả năng gì	1
@@ -1209,15 +1209,15 @@ mình thích xe riêng 2 chỗ bạn ạ	1
 Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-Thanh Hóa lúc 8h, về lúc 16h cùng ngày.	1
 mình thích xe riêng 2 chỗ bạn ạ	1
 được rồi	1
-để xem chú mày thế nào	1
-khởi động xong chưa?	1
+để xem chú mày thế nào	0
+khởi động xong chưa?	0
 Cho anh đặt  1 xe 4 chỗ đi Sầm Sơn - Thanh Hóa vào 8h ngày 30 tháng 4. Về lúc 20h ngày 01/05	1
 xe riêng	1
 Chào	1
 Tôi cần xe đi thái nguyên cuối tuần này	1
 Tôi cần đặt xe	1
 Dương nội	1
-Happy、、☆.. . ☆Women＼＼＊ ＊、Day＼＊•＊ 。  _::_______ ★。 ☆/_________/\  。 . . |_ 画_画|_'|☆。 Chúc mừng ngày Quốc tế phụ nữ	1
+Happy、、☆.. . ☆Women＼＼＊ ＊、Day＼＊•＊ 。  _::_______ ★。 ☆/_________/\  。 . . |_ 画_画|_'|☆。 Chúc mừng ngày Quốc tế phụ nữ	0
 Hello	1
 Giúp đặt xe đi	1
 Xe rieng 4 cho di mai dong	1
@@ -1315,18 +1315,18 @@ Không	1
 Ko	1
 ok	1
 Hello	1
-alo shop ơi	1
+alo shop ơi	0
 có xe ko ?	1
-không hiểu à	1
-chán thế, tính tâm sự tí	1
+không hiểu à	0
+chán thế, tính tâm sự tí	0
 ừ	1
 ok	1
-ngon	1
-ai đang support thế	1
+ngon	0
+ai đang support thế	0
 thanks	1
 alo bot ơi	1
 cũng ngon	1
-Lala Shop đang muốn làm bot đây	1
+Lala Shop đang muốn làm bot đây	0
 #gioithieu	1
 Tôi muốn đặt xe đi hà nội	1
 Đi từ sài gòn	1
@@ -1367,7 +1367,7 @@ mai	1
 10	1
 mười	1
 8h	1
-cung cấp kiểu gì	1
+cung cấp kiểu gì	0
 Ecopark	1
 Xuân Quan, Văn Giang, Hưng Yên	1
 sân bay nội bài	1
@@ -1378,19 +1378,19 @@ ko	1
 ok	1
 ok	1
 okk	1
-cho gửi lời khen TS Thành	1
-đã dậy con bot này	1
-thông minh hơn rồi	1
-nhưng khi khách hàng trả lời giờ	1
-thì gõ 8 hoặc 9	1
-thì lại ko hiểu	1
-haha	1
-không cần điểm	1
-nhớ trả tiền cho tester	1
-góp ý nhé	1
-hotline gì mà gọi chả ai nghe máy cả	1
-đăng ký cái 1900 cho nó chuyên nghiệp	1
-nhìn cái số tưởng cố định saigon	1
+cho gửi lời khen TS Thành	0
+đã dậy con bot này	0
+thông minh hơn rồi	0
+nhưng khi khách hàng trả lời giờ	0
+thì gõ 8 hoặc 9	0
+thì lại ko hiểu	0
+haha	0
+không cần điểm	0
+nhớ trả tiền cho tester	0
+góp ý nhé	0
+hotline gì mà gọi chả ai nghe máy cả	0
+đăng ký cái 1900 cho nó chuyên nghiệp	0
+nhìn cái số tưởng cố định saigon	0
 hi	1
 mình muốn đặt xe đi đà lạt	1
 xem giá	1
@@ -1405,14 +1405,14 @@ hôm nay	1
 5 phút trước	1
 bây giờ	1
 ngay lúc này	1
-hic ... :(	1
+hic ... :(	0
 Hi	1
 hello	1
 Bạn có thể giúp gì cho tôi	1
-giúp tôi giải bài tập được không Decode: hi	1
-Thông tin hệ thống	1
-giúp tôi cách đi của quân xe	1
-đến cuối bàn cờ	1
+giúp tôi giải bài tập được không Decode: hi	0
+Thông tin hệ thống	0
+giúp tôi cách đi của quân xe	0
+đến cuối bàn cờ	0
 hihi	1
 hi	1
 đi xe về bắc ninh	1
@@ -1425,9 +1425,9 @@ ba Đình	1
 Đội Cấn, Ba Đình	1
 bắc ninh	1
 bắc ninh việt nam	1
-test	1
-xxx	1
-yyy	1
+test	0
+xxx	0
+yyy	0
 hey	1
 dat xe di Ha Noi	1
 9h ngay 14/3	1
@@ -1436,20 +1436,20 @@ dat xe di Ha Noi	1
 11h toi ngay 15/3	1
 saigon	1
 hi	1
-xe nào đẹp?	1
-thử chat tự động	1
+xe nào đẹp?	0
+thử chat tự động	0
 Xin chào	1
 Thuê xe	1
 Hi	1
-Tên bạn là hì	1
+Tên bạn là hì	0
 Chào	1
 Có những xe gì	1
 Đặt xe thế nào	1
 xin chào	1
-Bot	1
-Bot ngu	1
-bên bạn có bán xe ko nhỉ	1
-bạn tên là gì	1
+Bot	0
+Bot ngu	0
+bên bạn có bán xe ko nhỉ	0
+bạn tên là gì	0
 bot này có thể làm gì	1
 đặt xe đi đâu được nhỉ	1
 Giúp đặt xe	1
@@ -1470,9 +1470,9 @@ Không	1
 Xăng bơm sẵn chưa	1
 ok	1
 ok	1
-Test thôi	1
-Bot ơi	1
-Hỏi thêm dc không	1
+Test thôi	0
+Bot ơi	0
+Hỏi thêm dc không	0
 Ok	1
 abc	1
 Ê	1
@@ -1480,13 +1480,13 @@ có thể đặt xe đi đâu được nhỉ	1
 Help	1
 Trợ giúp	1
 123 xe là gì	1
-Bot ngu	1
-Còn phải cải thiện nhiều	1
+Bot ngu	0
+Còn phải cải thiện nhiều	0
 Hế lu	1
 alo	1
-thời tiết hôm nay thế nào ?	1
+thời tiết hôm nay thế nào ?	0
 có xe về Nam Định ko	1
-có xe cho Ngọc Trinh ko ?	1
+có xe cho Ngọc Trinh ko ?	0
 mai ?	1
 ngày mai	1
 chiều đi, 2 giờ	1
@@ -1494,14 +1494,14 @@ chiều đi, 2 giờ	1
 new york	1
 nam định	1
 broadway, new york	1
-chat bot ngu	1
-chat bot ngu	1
-chat bot ngu ghê	1
-chat bot ngu	1
-chat bot đẹp trai	1
+chat bot ngu	0
+chat bot ngu	0
+chat bot ngu ghê	0
+chat bot ngu	0
+chat bot đẹp trai	0
 123 xe	1
-ứ chọn ờ	1
-bên mình bán sản phẩm gì thế	1
+ứ chọn ờ	0
+bên mình bán sản phẩm gì thế	0
 gía thuê xe ở hà nội thê nào	1
 mình muốn thuê 2 xe	1
 nói câu khác nghe coi	1
@@ -1520,7 +1520,7 @@ Quận 1 Sài Gòn	1
 ngày kia	1
 3 giờ chiều	1
 không	1
-cho mình xin ít tiền	1
+cho mình xin ít tiền	0
 xac nhận	1
 Hi	1
 Giúp mình đặt xe đi hà nội	1
@@ -1599,17 +1599,17 @@ select@Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, C�
 Sáng mai lúc 8h	1
 Ok	1
 Alo	1
-Hỏi điểm ở trên rồi còn hỏi lại à	1
-Jdjdjdjjdjdjssj	1
-Jdjdjdjdjd	1
-Hỏi lặp rồi, quên à?	1
+Hỏi điểm ở trên rồi còn hỏi lại à	0
+Jdjdjdjjdjdjssj	0
+Jdjdjdjdjd	0
+Hỏi lặp rồi, quên à?	0
 Bái đính chùa	1
 Cao cấp	1
 4	1
 Có, 4h chiều mai	1
 Ko	1
 ok	1
-Dvffgggffg	1
+Dvffgggffg	0
 Alo	1
 Bạn có những khẳ năng gì?	1
 Bạn có khả năng gì?	1
@@ -1699,10 +1699,10 @@ Mình đặt xe riêng	1
 26:3	1
 '26/3/2017'	1
 26.3.2017	1
-Thôi lằng nhằng quad	1
-Ko thuê nữa	1
+Thôi lằng nhằng quad	0
+Ko thuê nữa	0
 Bb	1
-Xin lỗi, Bạn nhập sai định dạng cho ngày tháng khởi hành (26:3), mời bạn nhập lại theo các định dạng sau '1/1/2017' '1.1.2017' '1.1'.	1
+Xin lỗi, Bạn nhập sai định dạng cho ngày tháng khởi hành (26:3), mời bạn nhập lại theo các định dạng sau '1/1/2017' '1.1.2017' '1.1'.	0
 bye	1
 giup dat xe di Son tay	1
 minh di vao ngay mai luc 8h sang	1
@@ -1763,14 +1763,14 @@ ngay hom nay	1
 di chung cho 4 nguoi	1
 co	1
 gia ca the nao	1
-minh ve luc 21h Decode: hi	1
+minh ve luc 21h	1
 ko	1
 gia ca the nao	1
 từ từ	1
 không ạ	1
-mình ko cần nữa	1
-mình bảo là không cần nữa mà	1
-đừng nhắn lại nữa	1
+mình ko cần nữa	0
+mình bảo là không cần nữa mà	0
+đừng nhắn lại nữa	0
 bye	1
 giup dat xe di 3 thai ha	1
 biến	1
@@ -1824,8 +1824,8 @@ không phải	1
 sai rồi	1
 tôi đặt xe đi từ Từ Liêm đến Quán Gánh Thường Tín	1
 Hello	1
-Can you help me ?	1
-Ok tôi sẽ dùng tiếng việt	1
+Can you help me ?	0
+Ok tôi sẽ dùng tiếng việt	0
 alo	1
 giup minh dat xe	1
 giup dat xe	1
@@ -2014,8 +2014,8 @@ Thử cho anh nốt lần này nữa nhé	1
 Em muốn đặt xe đi biển Hải Hòa  - Thanh Hóa vào ngày mai. Xe riêng, 4 chỗ nhé. Đón lúc 8h sáng nhé	1
 Đi từ tòa nhà Sông Hồng, 165 Thái Hà nhé	1
 Tầng M, 165, Tòa nhà Sông Hồng Park View B, Thái Hà, Láng Hạ, Đống Đa, Hà Nội	1
-you are fucking stupid	1
-dau roi?	1
+you are fucking stupid	0
+dau roi?	0
 cho đặt xe đi lăng bác cái	1
 bây giờ luôn	1
 hôm này lúc 17h luôn bạn nhé	1
@@ -2049,9 +2049,9 @@ giup dat xe	1
 minh di xe cao cap	1
 bye	1
 giup dat xe di	1
-djldfdsl;j	1
-dfjlkfjdl;kfj	1
-kdfjd;ls	1
+djldfdsl;j	0
+dfjlkfjdl;kfj	0
+kdfjd;ls	0
 Bạn có thể làm gì?	1
 đặt	1
 ờ	1
@@ -2078,21 +2078,21 @@ Mình đi từ dolphin plaza, trần bình	1
 3 Láng Hạ, Đống Đa, Hà Nội	1
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	1
 22/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	1
-ừ, bot chạy cơm trả lời à?	1
-hay bot chạy điện?	1
-okie, đó là đỉnh cao của bot rồi (y)	1
-A.I về sau nâng cấp cuối cùng là cũng đạt mức chạy = cơm thôi. Replace the mankind ;)	1
+ừ, bot chạy cơm trả lời à?	0
+hay bot chạy điện?	0
+okie, đó là đỉnh cao của bot rồi (y)	0
+A.I về sau nâng cấp cuối cùng là cũng đạt mức chạy = cơm thôi. Replace the mankind ;)	0
 ok	1
 ko sao	1
-nếu cần cứ ới mình :D	1
+nếu cần cứ ới mình :D	0
 alo	1
 Ko	1
 Ko	1
-mình là nữ	1
-vì mình giả vờ khai là nam thôi	1
-bạn không tin khách hàng ư	1
-then why dont you believe in god	1
-you are speaking it	1
+mình là nữ	0
+vì mình giả vờ khai là nam thôi	0
+bạn không tin khách hàng ư	0
+then why dont you believe in god	0
+you are speaking it	0
 alo	1
 Hi	1
 gia the nao em?	1
@@ -2122,7 +2122,7 @@ Phường Mai Dịch, Cầu Giấy, Hà Nội	1
 Tuyên Quang	1
 huyện Yên Sơn về thị xã Tuyên Quang	1
 Hàm Yên	1
-Đồ điên, mịa	1
+Đồ điên, mịa	0
 Ok, nhập Hàm Yên rồi mà không biết là sao	1
 bye	1
 Đồ dở hơi	1
@@ -2184,22 +2184,22 @@ Da Nang	1
 cao cấp	1
 1	1
 4	1
-đm hỏi lắm thế	1
-kệ bố	1
+đm hỏi lắm thế	0
+kệ bố	0
 10	1
 8 giờ sáng	1
 ko	1
 ngày kia	1
-đệch, méo nói đấy, ờ =))	1
-111111	1
+đệch, méo nói đấy, ờ =))	0
+111111	0
 11\2	1
-\\1	1
-abc	1
-11102	1
-1111	1
-11	1
-11/1	1
-//11	1
+\\1	0
+abc	0
+11102	0
+1111	0
+11	0
+11/1	0
+//11	0
 11/02	1
 11/22	1
 22//1	1
@@ -2244,8 +2244,8 @@ không	1
 không	1
 ko	1
 alo	1
-jflkd;js	1
-jsl;fjdsj	1
+jflkd;js	0
+jsl;fjdsj	0
 giup dat xe di tu 2 lang ha toi 3 thai ha luc 20h hom nay	1
 3 thai ha	1
 2 lang ha	1
@@ -2268,7 +2268,7 @@ ok	1
 Giá bao nhiêu bạn?	1
 giup dat xe di 3 thai ha tu 2 lang ha	1
 ngay mai luc 20h	1
-tôi yêu bạn	1
+tôi yêu bạn	0
 minh dat xe di chung cho 4 nguoi	1
 co minh ve luc 21h	1
 tôi không thích	1
@@ -2280,11 +2280,11 @@ tong tien la bao nhieu a	1
 gia tien la the nao vay?	1
 gia bao nhieu vay	1
 gia the nao the nhi?	1
-dfsjslkj	1
+dfsjslkj	0
 bye	1
-dljlkdsfj	1
-dsjfds;lj	1
-djfldsfjl	1
+dljlkdsfj	0
+dsjfds;lj	0
+djfldsfjl	0
 bye	1
 xin chào	1
 bạn có thể giúp gì cho mình?	1
@@ -2326,10 +2326,10 @@ Không	1
 Tôi muốn số lượng người trên xe chỉ khoảng 8-10 người, không đông quá.	1
 ok	1
 alo	1
-dsjfdlskj	1
-jldskfjds;	1
-ldjflkj	1
-sdjfljk	1
+dsjfdlskj	0
+jldskfjds;	0
+ldjflkj	0
+sdjfljk	0
 giup dat xe di	1
 minh di xe rieng 4 cho tu 2 lang ha toi 3 thai ha	1
 minh di ngay mai luc 8h	1
@@ -2340,8 +2340,8 @@ khong	1
 gia ca the nao ban	1
 gia ca the nao ba	1
 chào bot	1
-cô hai tên gì?	1
-ơ, vậy là bot if else à :v	1
+cô hai tên gì?	0
+ơ, vậy là bot if else à :v	0
 alo	1
 tui ở cầu sài gòn	1
 tôi ở cầu sài gòn muốn ra bến xe miền tây phải làm sao	1
@@ -2349,8 +2349,8 @@ alo	1
 alo	1
 tôi ở cầu sài gòn muốn ra bến xe miền tây phải làm sao	1
 123xe là gì?	1
-tôi phải làm sao?	1
-rồi gì nữa?	1
+tôi phải làm sao?	0
+rồi gì nữa?	0
 cho tui đặt xe từ cầu sài gòn ra bến xe miền tây	1
 đến bến xe miền tây	1
 bến xe miền tây	1
@@ -2374,11 +2374,11 @@ Alo	1
 Không	1
 Bye	1
 Không	1
-Chào em cho anh hỏi thăm tí	1
-Bạn có khỏe ko?	1
-Mình tán gẫu tí nhé	1
-Bạn yêu virus không?	1
-hl	1
+Chào em cho anh hỏi thăm tí	0
+Bạn có khỏe ko?	0
+Mình tán gẫu tí nhé	0
+Bạn yêu virus không?	0
+hl	0
 xin	1
 toi muon dat xe	1
 Ha Tinh	1
@@ -2411,7 +2411,7 @@ số 7 ngọc thụy, đống đa, hà nội	1
 số 8 ngọc thụy, hà nội	1
 ngọc thụy 8/2	1
 ngọc thụy 8/4	1
-cứt giờ	1
+cứt giờ	0
 8	1
 Đặt xe	1
 đặt xe	1
@@ -2463,7 +2463,7 @@ ok	1
 mỗi mình thôi	1
 một mình	1
 Ok. Cảm ơn	1
-👹	1
+👹	0
 có về cùng ngày lúc 20h	1
 khong	1
 ok	1
