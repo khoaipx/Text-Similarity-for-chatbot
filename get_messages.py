@@ -25,6 +25,7 @@ def get_messages(raw_data_dir):
             # if f == 'dialogs.tsv':
             if f == 'chatbot.log':
                 path = os.path.join(root, f)
+                print path
                 temp = list()
                 for line in codecs.open(path, 'r', 'utf8'):
                     line = line.replace('\n', '')
@@ -73,10 +74,11 @@ def find_message(raw_data_dir, mess):
 
 def main():
     current_dir = os.curdir
-    # get_messages(current_dir)
-    message = u'Xin lỗi, Bạn nhập sai định dạng cho ngày tháng khởi hành (26:3), mời bạn nhập lại theo các định dạng sau'
-    find_message(current_dir, message)
+    get_messages(current_dir)
+    # message = u'Xin lỗi, Bạn nhập sai định dạng cho ngày tháng khởi hành (26:3), mời bạn nhập lại theo các định dạng sau'
+    # find_message(current_dir, message)
 
 
 if __name__ == '__main__':
     main()
+

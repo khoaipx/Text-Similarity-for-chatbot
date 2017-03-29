@@ -88,11 +88,23 @@ def make_csv(data_file):
     test_writer.close()
 
 
+def explore(data_file):
+    labels = list()
+    for line in codecs.open(data_file, 'r', 'utf8'):
+        line = line.strip()
+        (message, label) = line.split('\t')
+        labels.append(label)
+    c = Counter(labels)
+    for x in c:
+        print x, ' -> ', c[x]
+
+
 def main():
     data_file = 'chat.txt'
     # test(data_file)
     # get_dic()
-    make_csv(data_file)
+    # make_csv(data_file)
+    explore(data_file)
 
 
 if __name__ == '__main__':
