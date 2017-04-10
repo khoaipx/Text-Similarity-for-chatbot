@@ -41,7 +41,7 @@ def get_messages(raw_data_dir):
                     messages.append(message)
     writer = codecs.open('chat.txt', 'w', 'utf8')
     for message in messages:
-        writer.write(message[len('Decode: '):] + '\t1\n')
+        writer.write(message[len('Decode: '):] + '\t2\n')
     writer.close()
 
 

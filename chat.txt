@@ -1,28 +1,444 @@
-giup anh dat xe di 5 thai ha tu 2 lang ha	4
-anh đi xe riêng 4 người	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h	2
+ko	2
+ko	2
+ok	2
+alo	2
+hi	2
+alo	2
+khong	2
+ok	2
+Ok	2
+Alo	2
+a	2
+b	2
+Tôi muốn đi hà nội, chiều nay lúc 2h, 1 người, đi xe riêng Decode: Giá thế nào?	2
 4 chỗ	2
-anh đi chiều nay lúc 17h	2
-không	3
-ko	3
-gia the nao y nhi?	1
-ok	3
-đã test đến đây	0
+Tôi muốn đi hà nội, chiều nay lúc 2h, 1 người, đi xe riêng	2
+Thái hà đống đa hn	2
+Hưng yên	2
+Tiên lữ hưng yên	2
+Thị trấn vương	2
+14h	2
+Không	2
+Giá cả thế nào	2
+Đắt nhỉ	2
+😌	2
+alo	2
+khong	2
+alo	2
+mình muốn	2
+hê nhô	2
+ơ ?	2
+mình là nữ	2
+Đặt xe	2
+Cà Mau	2
+Hello	2
+Tỉnh Cà Mau	2
+hello buoi sang	2
+hello	2
+test 1234	2
+Thành phố cà mau	2
+Dat xe den Mi	2
+Đà Lạt	2
+khong co	2
+toi tuan sau	2
+toi chu nhat tuan sau	2
+tối chủ nhật tuần sau	2
+alo	2
+ngay mai	2
+khong	2
+Mình muốn thuê xe đến Tp Đà Lạt - Tỉnh Lâm Đồng	2
+ngay kia	2
+muốn đặt lai x	2
+muốn đặt  lại xe	2
+Bye	2
+muốn hỏi gía xe	2
+09 Phan Như Thạch, Trung tâm thành phố Đà Lạt, Đà Lạt, Việt Nam -	2
+Có làm gì khác không	2
+EEe	2
+Bye	2
+Eeee	2
+co lam gi khác không	2
+EEE	2
+EEE	2
+die roi a	2
+Bye	2
+Bye bye	2
+Good bye	2
+Đường Nguyễn Huệ - Quận 1 - Tp Hồ Chí Minh	2
+Có làm gì khác không	2
+Đi riêng	2
+45 chỗi	2
+Có làm gì khác không	2
+10.4.2017	2
+Đặt xe	2
+8:00	2
+có	2
+Đến New York	2
+18.04	2
+18:00	2
+không	2
+New york	2
+Bễn xe đông mỹ	2
+Đông Mỹ, Thanh Trì, Hà Nội	2
+Đông nam á	2
+hi	2
+bạn là người hay là bot vậy ?	2
+ok, vậy bạn là bot rồi =))	2
+buzz	2
+ok, vậy bây giờ mình muốn đặt xe về Bắc Ninh có được không?	2
+hey, đi đâu rồi ?	2
+ok, mình muốn đặt xe về Bắc Ninh có được không?	2
+mình đặt xe về Bắc Ninh được không?	2
+có vẻ bạn rep chậm nhỉ -_-	2
+buzz	2
+ê ku, còn ở đấy không?	2
+-_-	2
+😠😠😠😠😠😠😠😠😠😠😠😠	2
+Hi	2
+Khoẻ ko anh?	2
+Câu hỏi thăm sức khoẻ mà	2
+Cần phải trả lời ngon chứ	2
+Cho anh đặt xe	2
+Ở đây	2
+Ninh bình	2
+Mai	2
+8	2
+Riêng 7 chỗ	2
+Ko	2
+Ko	2
+ok	2
+à lố	2
+mình nhắn tin cho bạn từ chiều qua và đến sáng nay bạn  mới trả lời -_-	2
+9h sáng chủ nhật tới đây	2
+9h sáng chủ nhật !	2
+chủ nhật	2
+9h sáng thứ 7	2
+9 giờ sáng thứ 7	2
+mình muốn đặt xe đi lúc 9 giờ sáng chủ nhật tới đây	2
+bạn là người đến từ tương lại à 😡	2
+thế nhập thời gian thế nào mới đúng ?	2
+ok, bye	2
+hello	2
+mình muốn hỏi đặt xe từ Mỹ Đình về Bắc Ninh mất khoảng bao nhiêu tiền	2
+thế bạn giúp mình được gì. Mình không muốn gọi điện đến hotline	2
+ý bạn là sao ?	2
+ok, mình muốn đặt xe về Bắc Ninh vào lúc 8h30 sáng chủ nhật tới đây	2
+chủ nhật tới đây	2
+Xin chào 123xe	2
+ngày mùng 9	2
+ngày 9 tháng 4	2
+khoảng 8h30 được không bạn?	2
+Are you kidding me ?	2
+Đi Nghệ An, xe 4 chỗ, có luôn không 123xe?	2
+8h30 sáng	2
+Mình muốn đặt xe 4 chỗ	2
+nếu đặt xe 4 chỗ về Thuận Thành Bắc Ninh thì mất khoảng bao nhiêu tiền ?	2
+Đi xe riêng tiết kiệm	2
+Xe riêng 4 chỗ	2
+Thuận Thành, Bắc Ninh. Nản với bạn quá đấy 　 Đừng bắt mình phải nói lại lần nữa	2
+Đón tại Hà Nội	2
+thôi bỏ đi, bye	2
+Cổ Nhuế, bắc từ liêm, hà nội	2
+Nghệ an	2
+Đô lương nghệ an	2
+Trù sơn đô lương nghệ an	2
+Ngày mai	2
+10h tối	2
+Có	2
+Ngày 30/4	2
+7h	2
+Không	2
+ok	2
+Hi bạn, mình muốn đặt xe về Cẩm Phả	2
+Mình muốn đặt xe về Cẩm Phả	2
+Cẩm Bình-Cẩm Phả, Quảng Ninh	2
+Điểm khởi hành tại vị trí hiện tại của mình	2
+Hi	2
+Mình muốn thuê xe đi Đà Nẵng	2
+Hội An - Đà Nẵng	2
+44 Bạch Đằng, Hải Châu 1, Q. Hải Châu, Đà Nẵng	2
+ok	2
+ok	2
+sao mãi ko thấy liên hệ nhỉ ?	2
+chán	2
+A nô	2
+Hi	2
+Mình muốn đặt xe na	2
+Đi riêng thôi na	2
+4 chỗ nè	2
+Mình muốn đi từ Thái Hà, Hà Nội	2
+Mình về quê mình ở Cầu Giát, Nghệ An nè	2
+Cầu giát nghệ an	2
+Ngày hôm nay	2
+4 tiếng nữa	2
+3 giờ chiều	2
+Nỏ	2
+Không	2
+TuDHM test	2
+không hiểu	2
+ok	2
+ok	2
+alo	2
+Luôn và ngay	2
+Hnay	2
+Hôm nay	2
+11h	2
+15 giờ	2
+Xe riêng	2
+4 chỗ	2
+Mình đi một chiều thôi	2
+Vui lòng đón mình đúng giờ	2
+ok	2
+ok	2
+Alo	2
+Cảm ơn hehe	2
+alo	2
+Hi	2
+Hệ thống ngon ko em	2
+Chuyển câu hỏi rồi mà vẫn trả lời 😁	2
+Anh muốn đăng ký đi sân bay	2
+Anh đi từ sân bay Đà Nẵng tới hội an	2
+Xe riêng 7 chỗ	2
+Anh muốn chọn lại điểm đến	2
+Điểm đến bị sai, anh muốn chọn lại không được à?	2
+ngày này năm sau	2
+6/4/2018	2
+5h sáng	2
+không anh đi 1 chiều thôi	2
+anh đang test thôi nhé :D	2
+Điểm đến bị sai, anh muốn đổi điểm đến	2
+Thông tin sai, anh muốn đổi điểm đến	2
+Điểm đến hội an	2
+ok	2
+ok	2
+2	2
+minh muon dat xe	2
+thành phố nam định	2
+ngày kia	2
+5h	2
+big c nam định	2
+165 thái hà	2
+u	2
+165H Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
+e muon dat xe	2
+ok	2
+5h	2
+xe riêng	2
+xe 4 chỗ	2
+xe chung 4 ng	2
+không	2
+mình test thôi nhé	2
+xe rieeng	2
+ok	2
+đi chung	2
+ok	2
+165 thai ha	2
+7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
+hai phong	2
+là sao	2
+Dai hoc Hai Phong	2
+Số 171 Phan Đăng Lưu, Ngọc Sơn, Kiến An, Hải Phòng	2
+con số may mắn là sao	2
+30/4	2
+6:30	2
+yes	2
+1/5	2
+hey yo !	2
+16:40	2
+mình muốn đặt xe	2
+đi riêng	2
+thái hà	2
+lào cai	2
+co nguoi lon tuoi	2
+dat xe	2
+ok	2
+xe 4 chỗ	2
+đi rieng	2
+165 thai ha	2
+thanh pho lao cai	2
+7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
+LAO CAI	2
+toi thanh pho nam dinh	2
+Trần Thừa, Lộc Vượng, Tp. Nam Định, Nam Định	2
+mai	2
+5	2
+khong	2
+Hoàng Liên Sơn	2
+khong	2
+4 chỗ	2
+ok	2
+30/4	2
+15:00	2
+đặt 2 lần	2
+ko	2
+lại là số 9 ah	2
+moá	2
+đón đúng giờ	2
+ok	2
+ok	2
+ok	2
+well yo	2
+đặt xe	2
+anh khoái	2
+are you kidding me???	2
+####	2
+.	2
+.	2
+.	2
+.	2
+.	2
+alo	2
+alo	2
+chào em	2
+có	2
+em có thể giúp anh việc này	2
+uhm được	2
+rồi sao	2
+a lô	2
+alo	2
+sao hỏi mãi k trả lời	2
+alo	2
+alo	2
+chào em	2
+cho đặt xe	2
+minh muon dat xe	2
+minh la nua	2
+minh la nu	2
+chung em	2
+alo	2
+xe chung đi em	2
+alo	2
+alo toi la nu co ma, sao cu xung ho anh em la sao nhi	2
+anh chọn loại xe đi chung em nhé	2
+tôi là nữ, xưng hô đúng giới tính đi xem nào	2
+-100*99991 người em	2
+xưng hô đúng giới tính đi đã	2
+1/1/1969 em nhé	2
+đi chung	2
+01/01/1966	2
+tầm 100 người	2
+ngày nào thì được em	2
+alo	2
+Hà Lội	2
+Ha noi	2
+ha noi	2
+15/15/99919	2
+hanoi	2
+30/02/2017	2
+hanoi	2
+30/-1/209999	2
+01/01/100000	2
+01/01/5000	2
+thôi nghỉ đi em êi	2
+25h	2
+buổi sáng em	2
+À nô	2
+À lô	2
+À lô	2
+À lô	2
+-1	2
+moscow	2
+beijing china	2
+trường sa việt nam	2
+alo	2
+không phải	2
+aa	2
+newyork	2
+thiên đường bảo sơn	2
+bangkok	2
+được chưa	2
+hôm qua	2
+chưa chết ah	2
+đã bảo hôm qua mà lị	2
+trưa nay	2
+mười hai giờ đêm	2
+hải phòng, hưng yên	2
+điểm đầu tiên nhé	2
+có đi	2
+được	2
+1969	2
+5 giờ ngày 1/1/1970	2
+1/1/1970	2
+1/1/4000	2
+1/3	2
+1/1/6000	2
+"+1000*9999999999+"	2
+alo	2
+đồng ý em	2
+bye	2
+a;lo	2
+alo	2
+alo	2
+alo	2
+alo	2
+alo	2
+alo	2
+alo	2
+alo	2
+alo	2
+bye	2
+alo	2
+alo	2
+bye	2
+alo	2
+alo	2
+😘😛😑😎	2
+xin chao	2
+alo	2
+alo	2
+thế em là ai	2
+alo	2
+alo alo alo	2
+alo	2
+alo	2
+chào cưng	2
+alo	2
+0904628168	2
+hành trình HN - Ba Bể - HN	2
+đi 6/4, về 8/4	2
+xe 16 chỗ	2
+Thôn Ngọc Nội, Xã Trạm Lộ, tt. Hồ, Bắc Ninh	2
+điểm đi từ Linh Đàm, Hà Nội	2
+mình ko tìm thấy điểm đến	2
+cho anh đặt một xe đi tới trường cấp 3 tiễn lữ từ 5 thái hà lúc 5h chiều này	2
+anh đi xe riêng 4 chỗ	2
+hôm nay lúc 17h	2
+Không	2
+khong	2
+anh đi từ hà nội	2
+http://www.mediafire.com/file/qufyg2dbtcdbtu8/cf_map_pack.7z	2
+Mình là tài xế có xe tại saigon, ko biết ứng dụng đã sử dụng cho tphcm chưa ạ	2
+Gửi hình giấy tờ ở đâu ạ	2
+App ko thấy	2
+0903671987	2
+He lo	2
+Hi	2
+Ab	2
+alo	2
+đã test đến đây	2
 anh đi xe riêng 4 chỗ	2
 Minh Khai, Hà Nội, lúc 3h chiều nay	2
 5 thái hà	2
-có	3
+có	2
 ngày về 4/5	2
 mình về vào ngày 3/5 lúc 2h	2
-ko	3
-Xin chào	3
-Tôi cần đặt xe	4
-Cho anh đặt xe đi chùa Bái Đính	4
+ko	2
+Xin chào	2
+Tôi cần đặt xe	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h	2
+ko	2
+ko	2
+ok	2
+ok	2
+ok	2
+Cho anh đặt xe đi chùa Bái Đính	2
 Có anh về ngày kia lúc 6h sáng	2
-Ali	0
-Alo	3
-Alo	3
-Alo	3
-Giúp anh đạt xe đi hà nội	4
+Ali	2
+Alo	2
+Alo	2
+Alo	2
+Giúp anh đạt xe đi hà nội	2
 Anh đi từ 165 thái hà	2
 165 thái hà	2
 7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
@@ -34,70 +450,70 @@ Có ngày mai lúc 23h	2
 Ngày mai lúc 23h	2
 Ngày kia lúc 24h	2
 7h toiis	2
-Ko	3
-ok	3
-alo	3
-giúp anh thuê xe	4
-Hi	3
+Ko	2
+ok	2
+alo	2
+giúp anh thuê xe	2
+Hi	2
 anh đi xe riêng tới Trang An	2
 anh đi từ 165 thái hà	2
 165E Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 Tràng An, Tp. Ninh Bình, Ninh Bình	2
-Tôi muốn đặt xe riêng 4 chỗ đi từ 2 láng hạ đến 165c thái hà lúc 12h15 ngày 3.4	4
+Tôi muốn đặt xe riêng 4 chỗ đi từ 2 láng hạ đến 165c thái hà lúc 12h15 ngày 3.4	2
 30 chỗ	2
-Có	3
+Có	2
 29 chỗ	2
 ngày 30/3 lúc 5h sáng	2
 12h ngày hôm sau	2
 Ngày hôm sau	2
 có anh đi về cùng ngày lúc 17h30	2
 Ngày 4.4	2
-không	3
-Ko	3
-gía thế nào bạn	1
-gia ca the nao?	1
-Hi	3
-Ok	3
-Tôi cần đặt xe đi từ 2 láng hạ đến 165c thái hà bằng xe riêng 4 chỗ lúc 13h ngày 3.4	4
+không	2
+Ko	2
+gía thế nào bạn	2
+gia ca the nao?	2
+Hi	2
+Ok	2
+Tôi cần đặt xe đi từ 2 láng hạ đến 165c thái hà bằng xe riêng 4 chỗ lúc 13h ngày 3.4	2
 165c thái hà	2
-Có	3
+Có	2
 12h15 4.4	2
-Ko	3
-ok bạn có những khả năng gì?	1
-Giup anh thue xe	4
-bye	3
-vậy ah	0
-Hi	3
-Mình muốn thuê xe	4
+Ko	2
+ok bạn có những khả năng gì?	2
+Giup anh thue xe	2
+bye	2
+vậy ah	2
+Hi	2
+Mình muốn thuê xe	2
 Hà Nội	2
-Alo	3
-Alo	3
-Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	0
-alo	3
-Alo	3
-Alo	3
-Mình muốn đặt xe	4
+Alo	2
+Alo	2
+Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	2
+alo	2
+Alo	2
+Alo	2
+Mình muốn đặt xe	2
 Xe riêng 4 chỗ	2
 165 thái hà	2
 7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 165H Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 12h ngày mai	2
-Ko	3
-Ko	3
-Giúp anh đặt xe 	4
-cho anh đặt xe riêng 4 chỗ đi sân bay nội bài từ mai dịch	4
+Ko	2
+Ko	2
+Giúp anh đặt xe 	2
+cho anh đặt xe riêng 4 chỗ đi sân bay nội bài từ mai dịch	2
 ngày mai lúc 8h	2
 có anh về ngày kia lúc 20h	2
 ngày kia	2
-ko	3
-bye	3
-giup anh đặt xe đi sân bay nội bài từ mai dịch	4
-anh đặt xe đi chung cho 3 người	4
+ko	2
+bye	2
+giup anh đặt xe đi sân bay nội bài từ mai dịch	2
+anh đặt xe đi chung cho 3 người	2
 anh đi lúc 17h	2
 có anh về vào ngày kia lúc 20h	2
 ngày kia	2
-ko	3
-ok	3
+ko	2
+ok	2
 Hà nội	2
 Cầu tê húc, hà nội	2
 Anh đi từ tp.hưng yên	2
@@ -106,31 +522,31 @@ Anh đi tới 165 thái hà	2
 7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 Đi chung em nhé	2
 4	2
-gia ca the nao\	1
-gia ca the nao	1
-giá cả thế nào	1
-Alo	3
-#gioithieu	3
-#gioithieu	3
-Bạn ơi, mình muốn hỏi bên mình giá xe thế nào	1
-Hi	3
-Tôi muốn đặt xe	4
+gia ca the nao\	2
+gia ca the nao	2
+giá cả thế nào	2
+Alo	2
+#gioithieu	2
+#gioithieu	2
+Bạn ơi, mình muốn hỏi bên mình giá xe thế nào	2
+Hi	2
+Tôi muốn đặt xe	2
 Đi chung 4 ng	2
 165 thái hà	2
 7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 Láng	2
-Alo	3
-Em là giai hay gái?	0
-Em có người yêu chưa?	0
-Ơ em đâu rồi?	0
-Em ơi	0
-Alo	3
-Em đã giúp được gì đâu.	0
-Em giúp được gì cho anh?	1
-Em ơi	3
-Em làm được gì thế?	1
-Giờ mình muốn đặt xe về Thanh Hoá thì như thế nào?	1
-Em cho anh đặt xe	4
+Alo	2
+Em là giai hay gái?	2
+Em có người yêu chưa?	2
+Ơ em đâu rồi?	2
+Em ơi	2
+Alo	2
+Em đã giúp được gì đâu.	2
+Em giúp được gì cho anh?	2
+Em ơi	2
+Em làm được gì thế?	2
+Giờ mình muốn đặt xe về Thanh Hoá thì như thế nào?	2
+Em cho anh đặt xe	2
 Anh muốn đi từ Hà Nội	2
 Anh ở Ba Đình em ạ.	2
 Phường Đa Kao, Quận Ba Đình	2
@@ -141,78 +557,78 @@ Mình đến phú sơn thành phố thanh hoá	2
 Mình muốn đi xe riêng	2
 Xe 4 chỗ là được rồi	2
 Khoang 6 giờ tối	2
-Không cần đâu	3
-Không cần mà	3
-Anh không	3
+Không cần đâu	2
+Không cần mà	2
+Anh không	2
 Có trẻ con nên cần xe sạch, lái êm.	2
-ok	3
-ok	3
-Cảm ơn em	3
-Anh thử đấy chứ số kia làm gì có thật.	0
-Alo	3
-Alo	3
-Anh muốn đặt xe em ạ.	4
-Anh muốn đặt xe riêng em ạ.	4
+ok	2
+ok	2
+Cảm ơn em	2
+Anh thử đấy chứ số kia làm gì có thật.	2
+Alo	2
+Alo	2
+Anh muốn đặt xe em ạ.	2
+Anh muốn đặt xe riêng em ạ.	2
 Có 3 người đi.	2
-Hello	3
-Anh muon bat uber	0
-gia ca ben em the nao	1
-alo	3
-giúp đặt xe đi 5 thái hà từ 2 láng hạ lúc 17h chiều nay	4
+Hello	2
+Anh muon bat uber	2
+gia ca ben em the nao	2
+alo	2
+giúp đặt xe đi 5 thái hà từ 2 láng hạ lúc 17h chiều nay	2
 17h	2
 anh đi xe riêng 4 chỗ	2
-không	3
-ko	3
-Alo	3
-Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	0
-alo	3
-alo	3
-Alo	3
-Giúp đặt xe đi	4
+không	2
+ko	2
+Alo	2
+Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	2
+alo	2
+alo	2
+Alo	2
+Giúp đặt xe đi	2
 3 láng hạ	2
 3 Láng Hạ, Đống Đa, Hà Nội	2
 6/3	2
 7h	2
 19h	2
 Mình đi xe riêng 4 chỗ	2
-Có	3
+Có	2
 Ngày hôm nay lúc 16 h	2
 Ngày hôm nay lúc 22h	2
 16h	2
 20h30	2
 22h30	2
-Không	3
+Không	2
 2 láng hạ	2
 6h	2
-alo	3
-Anh muốn đặt một xe đi cấp 3 tiên lữ vào ngày 20/3	4
+alo	2
+Anh muốn đặt một xe đi cấp 3 tiên lữ vào ngày 20/3	2
 anh đi xe riêng 4 chỗ	2
 165 thái hà em nhé	2
 Thị trấn Vương, Tiên Lữ Hưng Yên, Việt Nam	2
 mình đi lúc 17h30	2
 có mình về cùng ngày lúc 21h	2
-không	3
-Xin chào	3
-Mình muốn đặt sẽ về sóc sơn được không?	1
-anh muôn đặt xem 4 chỗ về Kim Lũ - Sóc Sơn	4
+không	2
+Xin chào	2
+Mình muốn đặt sẽ về sóc sơn được không?	2
+anh muôn đặt xem 4 chỗ về Kim Lũ - Sóc Sơn	2
 4h chiều ngày mai nhé	2
 ngõ 193 - Phú Diễn	2
 Xe riêng, 4 chỗ	2
-Không	3
+Không	2
 xe có cốp lớn để chứa được nhiều đồ nhé	2
-ok	3
-ok	3
-gía hết bao nhiều tiền vậy?	1
-chuyến đi hết bao nhiều tiền?	1
-He he	0
-sao đắt thế?	1
-sao đắt thế?	1
-Sao em thông minh thế?	0
-👍❤️❤️	0
-Hi	3
-mình muốn thuê xe	4
-Mình muốn đặt xe	4
-Mình muốn hỏi xe	4
+ok	2
+ok	2
+gía hết bao nhiều tiền vậy?	2
+chuyến đi hết bao nhiều tiền?	2
+He he	2
+sao đắt thế?	2
+sao đắt thế?	2
+Sao em thông minh thế?	2
+👍❤️❤️	2
+Hi	2
+mình muốn thuê xe	2
+Mình muốn đặt xe	2
+Mình muốn hỏi xe	2
 đi riêng	2
 45 chỗ	2
 Điểm khởi hành Hà Nội	2
@@ -221,88 +637,88 @@ Mình muốn hỏi xe	4
 Hạ Long, Bãi Cháy, Hạ Long, Quảng Ninh	2
 25/03	2
 8:00	2
-có	3
+có	2
 28/03	2
 13:00	2
-không	3
-ok	3
-ok	3
-Chào 123xe	3
-Tôi muốn đặt xe đi từ 2 láng hạ đến 165c thái hà lúc 12h15 ngày 3.4	4
+không	2
+ok	2
+ok	2
+Chào 123xe	2
+Tôi muốn đặt xe đi từ 2 láng hạ đến 165c thái hà lúc 12h15 ngày 3.4	2
 Xe riêng 7 chỗ	2
 Có	2
 5h ngày 12.4	2
-Ko	3
-Hi	3
-Em Làm được gì cừng	1
-Khách hàng có cách đặt xe nào?	1
-Giup mình đặt xe	4
-Mình muốn đặt xe riêng 4 chỗ	4
+Ko	2
+Hi	2
+Em Làm được gì cừng	2
+Khách hàng có cách đặt xe nào?	2
+Giup mình đặt xe	2
+Mình muốn đặt xe riêng 4 chỗ	2
 Hòa lạc	2
 Hòa Lạc, Thạch Thất, Hà Nội	2
 2 láng hạ	2
 2 láng hạ	2
-Hi man	3
-Khoẻ không em?	0
-Ok	3
-Cho anh đặt xe tới Mỹ Đình plaza, hà nội nhé	4
+Hi man	2
+Khoẻ không em?	2
+Ok	2
+Cho anh đặt xe tới Mỹ Đình plaza, hà nội nhé	2
 Ngày mai lúc 10h30	2
-Có	3
+Có	2
 Từ 165 Thái Hà	2
-Không	3
+Không	2
 22/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 138, Mỹ Đình Plaza, Trần Bình, Mỹ Đình 2, Hà Nội	2
 138, Trần Bình, Mỹ Đình 2, Từ Liêm, Hà Nội	2
-Thông tin đúng rồi, đặt giúp mình đi	3
+Thông tin đúng rồi, đặt giúp mình đi	2
 2 láng hạ	2
-Có đặt giúp đi	4
+Có đặt giúp đi	2
 2 láng hạ	2
 165 thái hà, đống đa	2
-Có muốn đặt	3
+Có muốn đặt	2
 165C Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 138 Trần Bình, Mai Dịch, Cầu Giấy, Hà Nội	2
-Có	3
+Có	2
 8h	2
 Đi riêng 4 chỗ	2
-Ko	3
-Ok đó	3
-Cảm ơn	3
+Ko	2
+Ok đó	2
+Cảm ơn	2
 Uh, gọi số 0989830433 để đón mình nhé	2
-Đc ko?	0
-Alo	3
-Check tin nhắn log đi nhé	0
-Bạn dạo này thế nào?	0
-Thời tiết hôm nay thế nào	0
-Các loại xe ntn?	1
-Ok	3
-L	0
-Hi	3
-Xe	0
-Alo	3
-Bye	3
-Alo	3
-Hello	3
-Xin chào	3
-Bye	3
-Cho anh đặt xe 4 chỗ về Khánh tiên, yên khánh, ninh bình	4
+Đc ko?	2
+Alo	2
+Check tin nhắn log đi nhé	2
+Bạn dạo này thế nào?	2
+Thời tiết hôm nay thế nào	2
+Các loại xe ntn?	2
+Ok	2
+L	2
+Hi	2
+Xe	2
+Alo	2
+Bye	2
+Alo	2
+Hello	2
+Xin chào	2
+Bye	2
+Cho anh đặt xe 4 chỗ về Khánh tiên, yên khánh, ninh bình	2
 Chung, 3 chỗ	2
 Đi chung 3 chỗ	2
 Đón anh ở 100 hoàng quốc việt	2
 Hoàng quốc việt	2
 Mai em nhé, lúc 14h	2
-Ko	3
+Ko	2
 Bàng sharing 4 chỗ là gì hả bạn	2
-Tôi không hiểu đi bằng sharing là g?	1
-Bye	3
-Đặt xe cái	4
-Tôi đặt xe đi chung cho 4 người	4
+Tôi không hiểu đi bằng sharing là g?	2
+Bye	2
+Đặt xe cái	2
+Tôi đặt xe đi chung cho 4 người	2
 Hà nôik	2
 Hưng yên	2
 Hưng yên	2
 Mai, 8h	2
 8h nói rồi mà	2
-Ko	3
-Alo	3
+Ko	2
+Alo	2
 Cho mình đặt xe đi Suối cá thần, Thanh Hoá	2
 Xe riêng 45 chỗ	2
 Ngày mai, 12h trưa	2
@@ -311,22 +727,22 @@ Mình đi từ dolphin plaza, trần bình	2
 Dolphin Plaza 28 Trần Bình, Hoàn Kiếm, Hà Nội	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
-Ko	3
-Được	3
-Ok	3
-Uh	3
+Ko	2
+Được	2
+Ok	2
+Uh	2
 Liên hệ số 0988903199 nhé	2
-Alo	3
-Đặt xe đi 3 láng	4
+Alo	2
+Đặt xe đi 3 láng	2
 3 Láng, Thượng Đình, Đống Đa, Hà Nội	2
 3 Láng, Thượng Đình, Đống Đa, Hà Nội	2
-Bye	3
-Đặt xe đi 3 láng hạ	4
+Bye	2
+Đặt xe đi 3 láng hạ	2
 Mai	2
 Ngày mai	2
 4	2
 3 thái hà	2
-Tôi muốn đặt xe	4
+Tôi muốn đặt xe	2
 3 lang ha	2
 3 Láng Hạ, Đống Đa, Hà Nội	2
 3 lang ha	2
@@ -337,11 +753,11 @@ Tôi muốn đặt xe	4
 3 Láng Hạ, Đống Đa, Hà Nội	2
 3 Láng Hạ, Chợ Dừa, Đống Đa, Hà Nội	2
 3 Láng Hạ, Đống Đa, Hà Nội	2
-Bye	3
-Đặt xe	4
+Bye	2
+Đặt xe	2
 Suối cá thần cẩm lương	2
-Bye	3
-Đặt xe	4
+Bye	2
+Đặt xe	2
 Đi chung cho 4 người	2
 suối cá thần, thanh hóa	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
@@ -360,31 +776,31 @@ Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thu�
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
-Hi	3
-Ok	3
-Bye	3
-Cho anh đặt xe tới mỹ đình plaza, hà nội	4
+Hi	2
+Ok	2
+Bye	2
+Cho anh đặt xe tới mỹ đình plaza, hà nội	2
 138, Mỹ Đình Plaza, Trần Bình, Mỹ Đình 2, Hà Nội	2
 138, Trần Bình, Mỹ Đình 2, Từ Liêm, Hà Nội	2
 Trần Bình, Mỹ Đình 2, Từ Liêm, Hà Nội	2
-Alo	3
-Cho anh đặt xe riêng 7 chỗ đi Chùa Bái Đính vào 8h sáng mai.	4
+Alo	2
+Cho anh đặt xe riêng 7 chỗ đi Chùa Bái Đính vào 8h sáng mai.	2
 Từ Mỹ Đình plaza nhé	2
 138, Mỹ Đình Plaza, Trần Bình, Mỹ Đình 2, Hà Nội	2
-Không	3
-Không, anh về thăm quê của KONG thôi.	3
-ok	3
-Dat xe 4 cho	4
+Không	2
+Không, anh về thăm quê của KONG thôi.	2
+ok	2
+Dat xe 4 cho	2
 Di chung 2 nguoi	2
 Minh khai,  ha noi luc 3h chieu nay	2
 254d minh khai,  Hà Nội	2
 Thị trấn Nam Sách,  Hải Dương	2
 15h00	2
-Khong	3
-Khong	3
-Khong,  cam on	3
-Bye	3
-đặt xe đi tam kỳ	4
+Khong	2
+Khong	2
+Khong,  cam on	2
+Bye	2
+đặt xe đi tam kỳ	2
 đi riêng với chung	2
 50	2
 4	2
@@ -394,17 +810,17 @@ hôm qua	2
 bữa kia	2
 3 ngày nữa	2
 đi bây giờ	2
-Cho anh đặt xe từ Khánh Tiên, Ninh Bình đi  Chùa Hương	4
+Cho anh đặt xe từ Khánh Tiên, Ninh Bình đi  Chùa Hương	2
 Hương Sơn, Mỹ Đức, Hà Nội	2
 Đi riêng 7 chỗ	2
 hôm nay	2
 Lúc 20h nhé	2
-có	3
+có	2
 Ngày mai, lúc 19h	2
-ko	3
-ok	3
-Chào	3
-Đặt xe ở Đà Nẵng	4
+ko	2
+ok	2
+Chào	2
+Đặt xe ở Đà Nẵng	2
 Riêng	2
 5	2
 4	2
@@ -412,38 +828,38 @@ Hap green đà nẵng	2
 Chợ cồn	2
 Hôm nay	2
 21h	2
-Không	3
-No	3
-ok	3
-ok	3
-hi	3
-bạn có thể làm gì?	1
-tôi không hiểu	0
-ok	3
-cảm ơn	3
-ey	0
-Chào	3
-có xe nào rẻ mà đẹp không em?	1
+Không	2
+No	2
+ok	2
+ok	2
+hi	2
+bạn có thể làm gì?	2
+tôi không hiểu	2
+ok	2
+cảm ơn	2
+ey	2
+Chào	2
+có xe nào rẻ mà đẹp không em?	2
 đi đà nẵng	2
 tui muốn đi đà lạt	2
 phần lan	2
 đi chung	2
-chào em	3
+chào em	2
 tui muốn đi hà nội	2
 nội bài	2
 xe riêng	2
-tôi muốn lái	0
-alo	3
+tôi muốn lái	2
+alo	2
 tôi đi hà nội	2
 đi riêng	2
 tôi muốn đi riêng	2
-gia ca ben ban the nao	1
-đi chung là thế nào vậy	1
-alo	3
-Hi	3
-Alo	3
-Đi chơi	0
-Làm que  không	0
+gia ca ben ban the nao	2
+đi chung là thế nào vậy	2
+alo	2
+Hi	2
+Alo	2
+Đi chơi	2
+Làm que  không	2
 Quy nhon	2
 Kỳ co	2
 Hà nội	2
@@ -456,37 +872,37 @@ Hà nội	2
 6h	2
 Riêng chung đều được	2
 Cả 3 đều được	2
-Bạn chọn giúp mình đi	0
-Chọn hộ cái	0
+Bạn chọn giúp mình đi	2
+Chọn hộ cái	2
 Chung	2
-chào bạn	3
-500000	3
-hình thức đặt xe bên mình thé nào nhỉ	1
-Chưa nghĩ ra	0
+chào bạn	2
+500000	2
+hình thức đặt xe bên mình thé nào nhỉ	2
+Chưa nghĩ ra	2
 mình đi ngày 11	2
 ngày 11 tháng này	2
-ok	3
+ok	2
 ngày 11 tháng 3	2
 chắc khoảng 6h chiều	2
 mình từ Mỹ đình	2
 Mỹ Đình, Từ Liêm, Hà Nội	2
 Nội Duệ Bắc Ninh	2
 mình đi bằng xe riêng	2
-mình muốn đặt xe	4
+mình muốn đặt xe	2
 mình đi ngày mai đến 3 thái hà từ 2 láng hà băng xe riêng 4 chỗ	2
 mình đi từ 2 láng hạ cơ	2
 3h	2
-không	3
-bye	3
-mình đặt xe đi ngày mai đến 3 thái hà từ 2 láng hà băng xe riêng 4 chỗ	4
-cong hoa xa hoi chu nghia	0
-Chào bạn	3
-Bye	3
-Chào bạn	3
-Chào bạn	3
-mình muốn test thử chức năng bot	0
-mình muốn đặt thử xe	4
-đặt xe	4
+không	2
+bye	2
+mình đặt xe đi ngày mai đến 3 thái hà từ 2 láng hà băng xe riêng 4 chỗ	2
+cong hoa xa hoi chu nghia	2
+Chào bạn	2
+Bye	2
+Chào bạn	2
+Chào bạn	2
+mình muốn test thử chức năng bot	2
+mình muốn đặt thử xe	2
+đặt xe	2
 mai	2
 12h00	2
 tại nhà	2
@@ -494,159 +910,159 @@ tại nhà	2
 Hà Nội	2
 Chọn vị trí đến	2
 không phải mình muốn chọn lại vị trí đến	2
-thôi giờ muốn đặt xe lại từ đầu	4
+thôi giờ muốn đặt xe lại từ đầu	2
 đi chung	2
 60	2
-alo	3
-gia ca ben ban the nao	1
-giup dat xe di cap 3 tien lu vao ngay kia luc 17h30	4
+alo	2
+gia ca ben ban the nao	2
+giup dat xe di cap 3 tien lu vao ngay kia luc 17h30	2
 20/165 Thai Ha	2
 minh di xe rieng 4 cho	2
 co minh ve ngay 20/3 luc 6h	2
 8h	2
 minh ve ngay 21/3 luc 6g	2
 30/3 luc 20h	2
-khong	3
-xin chào	3
-bạn bot à	0
-bạn là bot à	0
-Hello dud	3
-Toi muon lam tai xe, quy trinh dang ky nhu the nao ?	1
-Ok, em dung cong nghe gi the ?	0
-Em co dat xe o Hue ko ?	1
-Hey	3
-Em co ho tro dat xe di Hue ko ?	1
-Ok	3
-Ok	3
-Cho anh đặt xe	4
+khong	2
+xin chào	2
+bạn bot à	2
+bạn là bot à	2
+Hello dud	2
+Toi muon lam tai xe, quy trinh dang ky nhu the nao ?	2
+Ok, em dung cong nghe gi the ?	2
+Em co dat xe o Hue ko ?	2
+Hey	2
+Em co ho tro dat xe di Hue ko ?	2
+Ok	2
+Ok	2
+Cho anh đặt xe	2
 Sáng mai lúc 8h	2
-xin chào, tôi muốn đặt xe 	4
+xin chào, tôi muốn đặt xe 	2
 Chùa bái đính	2
 Đi từ mỹ đình plaza nhé	2
-anh muốn đặt xe 	4
-Ko	3
-Ok	3
-Chào bạn	3
-Mình cần xe đi đà lạt vào cuối tuần này	4
-Đi chung là ntn	1
-Đi chung là sao	1
-Oh hay nhỉ	0
-:))	0
-Xin chào	3
-Mình muốn đặt xe	4
+anh muốn đặt xe 	2
+Ko	2
+Ok	2
+Chào bạn	2
+Mình cần xe đi đà lạt vào cuối tuần này	2
+Đi chung là ntn	2
+Đi chung là sao	2
+Oh hay nhỉ	2
+:))	2
+Xin chào	2
+Mình muốn đặt xe	2
 2 láng hạ	2
 165c thái hà	2
 Cao cấp 4 chỗ	2
 4h ngày 3.4	2
-No	3
-No	3
-Ko	3
-Bye	3
-Tôi muốn đặt xe từ 2 láng hạ đến 165c thái hà lúc 12h ngày 3.4 bằng xe cao cấp 4 chỗ	4
+No	2
+No	2
+Ko	2
+Bye	2
+Tôi muốn đặt xe từ 2 láng hạ đến 165c thái hà lúc 12h ngày 3.4 bằng xe cao cấp 4 chỗ	2
 2 láng hẠ	2
-Có	3
+Có	2
 13h ngày 4.4	2
-Ko	3
-Bye	3
-Tôi muốn đặt xe	4
+Ko	2
+Bye	2
+Tôi muốn đặt xe	2
 Cao cấp	2
 4	2
 13h ngày 3.4	2
 Hà nội	2
-bạn cho đặt xe	4
-alo	3
-sắp rồi bot ơi	0
-bot mà biết hỏi thăm	0
-=))	0
-bạn giúp mình đặt xe được không?	1
-giup đặt xe đi	4
-bye	3
-giới thiệu về bạn đi	1
-bạn có khả năng gì?	1
-bạn có khả năng gì?	1
-bạn có khả năng gì?	1
-bạn có khả năng gì?	1
-bạn có thể giúp được những gì?	1
-bạn có thể giúp gì?	1
-làm sao tổi có thể tham ra 123Xe?	1
-thủ tục đăng ký tài xế với 123Xe như thế nào?	1
-làm sao để có thể làm tài xế cho 123Xe	1
-alo?	3
-làm sao để có thể làm tài xế cho 123Xe	1
-khách hàng đặt xe như thế nào?	1
-giúp mình đặt xe	4
-Xin chào	3
+bạn cho đặt xe	2
+alo	2
+sắp rồi bot ơi	2
+bot mà biết hỏi thăm	2
+=))	2
+bạn giúp mình đặt xe được không?	2
+giup đặt xe đi	2
+bye	2
+giới thiệu về bạn đi	2
+bạn có khả năng gì?	2
+bạn có khả năng gì?	2
+bạn có khả năng gì?	2
+bạn có khả năng gì?	2
+bạn có thể giúp được những gì?	2
+bạn có thể giúp gì?	2
+làm sao tổi có thể tham ra 123Xe?	2
+thủ tục đăng ký tài xế với 123Xe như thế nào?	2
+làm sao để có thể làm tài xế cho 123Xe	2
+alo?	2
+làm sao để có thể làm tài xế cho 123Xe	2
+khách hàng đặt xe như thế nào?	2
+giúp mình đặt xe	2
+Xin chào	2
 165 Thái hà	2
-Tôi đang cần xe đi nam định	4
+Tôi đang cần xe đi nam định	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
-Tôi muốn đặt xe	4
+Tôi muốn đặt xe	2
 mình đi tới 2 láng hạ vào chiều nay	2
 Hà nội đến nam định	2
 Xe riêng 7 chỗ	2
 7h ngày mai	2
 2 lang ha	2
 6h	2
-Có	3
+Có	2
 mình đi xe riêng 4 chỗ	2
 5h ngày kia	2
 6h	2
-Ho	0
-ok	3
-hi	3
-nhanh không?	0
-HI	3
-hello	3
-cảm ơn bạn	3
-bạn có khả năng gì?	1
-alo Decode: alo	3
-alo	3
-alo	3
-alo	3
-hi	3
-alo	3
-alo	3
-alo	3
-xin chào	3
-bye	3
-bạn có khả năng gì?	1
-cách tham ra 123Xe như thế nào?	1
-làm sao để làm đối tác với 123Xe	1
-bạn có thể giúp được gì	1
-bạn có thể giúp đặt xe không?	1
-giup minh dat xe	4
+Ho	2
+ok	2
+hi	2
+nhanh không?	2
+HI	2
+hello	2
+cảm ơn bạn	2
+bạn có khả năng gì?	2
+alo Decode: alo	2
+alo	2
+alo	2
+alo	2
+hi	2
+alo	2
+alo	2
+alo	2
+xin chào	2
+bye	2
+bạn có khả năng gì?	2
+cách tham ra 123Xe như thế nào?	2
+làm sao để làm đối tác với 123Xe	2
+bạn có thể giúp được gì	2
+bạn có thể giúp đặt xe không?	2
+giup minh dat xe	2
 ha noi	2
 ninh bình bạn ạ	2
-mình muốn đặt xe riêng cho 4 người	4
+mình muốn đặt xe riêng cho 4 người	2
 4 chỗ	2
 minh đi vào ngày mai lúc 8h	2
-không	3
-không	3
-ok	3
-ok	3
-cảm ơn bạn	3
-bạn có những khả năng gì?	1
-mình muốn đăng ký làm tài xế của 123Xe thì phải làm như thế nào?	1
-alo	3
-chào bạn	3
+không	2
+không	2
+ok	2
+ok	2
+cảm ơn bạn	2
+bạn có những khả năng gì?	2
+mình muốn đăng ký làm tài xế của 123Xe thì phải làm như thế nào?	2
+alo	2
+chào bạn	2
 165G Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
-giup minh dat chuyen xe nua	4
-vậy giúp mình đặt xe đi	4
+giup minh dat chuyen xe nua	2
+vậy giúp mình đặt xe đi	2
 mình đi từ 165 thái hà	2
 165C Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 mình đi Hưng Yên	2
 mình đi xe riêng cho 4 chỗ thôi	2
 mình đi luôn chiều nay lúc 17h	2
 QUANG TRUNG, TÂY SƠN, TP. TAM ĐIỆP, NINH BÌNH	2
-thôi	3
-không	3
-anh đẩu?	0
-cũng đặt được	3
-alo	3
-xin chào	3
-#gioithieu	1
-bye	3
-Ok	3
-Tôi có thể đặt xe không	1
+thôi	2
+không	2
+anh đẩu?	2
+cũng đặt được	2
+alo	2
+xin chào	2
+#gioithieu	2
+bye	2
+Ok	2
+Tôi có thể đặt xe không	2
 Ngày kia	2
 6h chiều	2
 3 láng hạ	2
@@ -655,53 +1071,53 @@ Suối cá thần	2
 Suối cá thần cẩm lương	2
 Đi chung	2
 5	2
-Ko	3
-Tôi muốn thay đổi địa điểm đến	1
-alo	3
-Cho mình hỏi gia nhập 123xe thế nào với	1
-tham gia như thế nào bạn?	1
-alo	3
-cho mình đặt xe với	4
+Ko	2
+Tôi muốn thay đổi địa điểm đến	2
+alo	2
+Cho mình hỏi gia nhập 123xe thế nào với	2
+tham gia như thế nào bạn?	2
+alo	2
+cho mình đặt xe với	2
 mình muốn đi ngày mai, 8h tối	2
 Tôi muốn đi thanh hóa vào ngày 11/3 cùng 6 người bạn	2
 8h tối	2
 11/3	2
-Mình cần xe 4 chỗ, đi từ 30 Nguyễn Công Trứ - Hà Nội, tới Tràng An, Ninh BÌnh bạn nhé	4
+Mình cần xe 4 chỗ, đi từ 30 Nguyễn Công Trứ - Hà Nội, tới Tràng An, Ninh BÌnh bạn nhé	2
 Suối cá thần	2
 đi riêng bạn aj	2
 4 chỗ , nói ở trên rồi mà	2
-có	3
+có	2
 cùng ngày đó thôi	2
 trong ngày	2
 165c thái hà	2
 ngày mai luôn	2
 22h nhé	2
-ko	3
-ok	3
-ok	3
-ok. Nhắn anh team 123xe nhớ hoàn thiện BOT ngon hơn nhé	0
-khá tốt đó	0
-Hi	3
-Chào bạn	3
-Hi	3
-Tôi muốn về quê	0
-OK	3
-Bye	3
-chào bạn	3
-ko	3
-uh	3
-xin hoi ban ten gi	0
-hi	3
-bạn có những chức năng gì	1
-tôi phải đặt xe như thế nào	1
-bot ơi	3
-thế tôi phải đặt xe như thế nào	1
-hello	3
-tôi muốn đặt xe	4
-hello	3
+ko	2
+ok	2
+ok	2
+ok. Nhắn anh team 123xe nhớ hoàn thiện BOT ngon hơn nhé	2
+khá tốt đó	2
+Hi	2
+Chào bạn	2
+Hi	2
+Tôi muốn về quê	2
+OK	2
+Bye	2
+chào bạn	2
+ko	2
+uh	2
+xin hoi ban ten gi	2
+hi	2
+bạn có những chức năng gì	2
+tôi phải đặt xe như thế nào	2
+bot ơi	2
+thế tôi phải đặt xe như thế nào	2
+hello	2
+tôi muốn đặt xe	2
+hello	2
 ở nhà tôi	2
-ế nhà tôi đâu phải ở đó	0
-NewYork được không	1
+ế nhà tôi đâu phải ở đó	2
+NewYork được không	2
 Ngõ 151 Nguyễn Đức Cảnh, Tương Mai, Hoàng Mai, Hà Nội	2
 26h	2
 26:00	2
@@ -712,23 +1128,23 @@ tôi muốn đi xe riêng	2
 3 thôi	2
 15 chỗ	2
 16 chỗ vậy	2
-tiền nong thế nào	1
-tôi đã đặt ngày đâu	0
-cập nhật lại kiểu j	1
-😗😗😗	0
-cập nhật lại	1
-😡	0
-bye	3
-tôi có thể làm những gì	1
+tiền nong thế nào	2
+tôi đã đặt ngày đâu	2
+cập nhật lại kiểu j	2
+😗😗😗	2
+cập nhật lại	2
+😡	2
+bye	2
+tôi có thể làm những gì	2
 đặt xe 16 chỗ cho tôi	2
 Hà Nội	2
 Ngõ 151 Nguyễn Đức Cảnh, Tương Mai, Hoàng Mai, Hà Nội	2
 Bát Tràng	2
 10 sáng	2
 xe riêng, 15 chỗ	2
-không , khỏi	3
-không	3
-không	3
+không , khỏi	2
+không	2
+không	2
 tôi muốn đi vào ngày 11/3/2017	2
 à thôi, tôi muốn đi ngày mai	2
 tôi chuyển sang hôm nay được không	2
@@ -738,42 +1154,42 @@ tôi muốn đi vào ngày 08/03/2017	2
 31/04/2017 nhé	2
 8h ngày 31/04	2
 8h ngày 30/04	2
-uh	3
-bye	3
-😄	0
-oke	3
-Chào 123	3
-yeah	0
-Chào 123Xe	3
-mình muốn đặt xe đi nha trang ngày 21/4	4
+uh	2
+bye	2
+😄	2
+oke	2
+Chào 123	2
+yeah	2
+Chào 123Xe	2
+mình muốn đặt xe đi nha trang ngày 21/4	2
 đi chung	2
 đi từ sài gòn	2
-hình như là đi từ sài gòn tới nha trang chỉ có vài nhà xe thôi mà phải không	0
-chỗ nào rẻ hợp giờ thì đi được không ạ	0
-mình cũng ko quan trọng điểm xuất phát lắm đâu	0
+hình như là đi từ sài gòn tới nha trang chỉ có vài nhà xe thôi mà phải không	2
+chỗ nào rẻ hợp giờ thì đi được không ạ	2
+mình cũng ko quan trọng điểm xuất phát lắm đâu	2
 Bình Chánh	2
 Trung Sơn	2
 Quận 1	2
 chợ thị nghè	2
 nhà thờ đức bà	2
-bạn có xe bao nhiêu chỗ	1
+bạn có xe bao nhiêu chỗ	2
 bao nhiêu chỗ cũng đc	2
 31	2
 31	2
 > 20	2
-làm sao mình biết được xe khách có bao nhiêu chỗ	1
+làm sao mình biết được xe khách có bao nhiêu chỗ	2
 4	2
 8	2
-không	3
-không	3
+không	2
+không	2
 mình đi Nha Trang mà	2
-oi	0
-căng quá bot ơi	0
-bot?	0
-hello	3
-chào	3
-tôi muốn đặt xe	4
-tôi muốn đặt lại	4
+oi	2
+căng quá bot ơi	2
+bot?	2
+hello	2
+chào	2
+tôi muốn đặt xe	2
+tôi muốn đặt lại	2
 Đồng Văn Yên Lạc Vĩnh Phúc	2
 Tam Hồng Yên Lạc Vĩnh Phúc	2
 29/2/2017	2
@@ -788,34 +1204,34 @@ Tam Hồng Yên Lạc Vĩnh Phúc	2
 200	2
 200	2
 45	2
-đang suy nghĩ	0
-không có	3
-có không	3
+đang suy nghĩ	2
+không có	2
+có không	2
 tôi muốn đi vòng lên Hà Nội	2
 Hà Nội	2
 Hoàng Quốc Việt Cầu Giấy Hà Nội	2
-tôi không muốn đặt nữa	3
-bye	3
-chúc 123xe ngủ ngon nhé :v	0
-ok	3
-hello	3
-ai là người lập trình bạn	0
-đặt xe	4
-bye	3
-hello	3
-Tuyệt vời!!!	0
-bye	3
-cảm ơn 123 xe	3
-Hello	3
-Mua xe	0
-Hi	3
-Dặt xe	4
-bạn có khả năng gì?	1
-khách hàng đặt xe như thế nào?	1
-giúp mình đặt xe	4
+tôi không muốn đặt nữa	2
+bye	2
+chúc 123xe ngủ ngon nhé :v	2
+ok	2
+hello	2
+ai là người lập trình bạn	2
+đặt xe	2
+bye	2
+hello	2
+Tuyệt vời!!!	2
+bye	2
+cảm ơn 123 xe	2
+Hello	2
+Mua xe	2
+Hi	2
+Dặt xe	2
+bạn có khả năng gì?	2
+khách hàng đặt xe như thế nào?	2
+giúp mình đặt xe	2
 165 Thái hà	2
-Hi	3
-Mình muốn đặt Xe về nam định	4
+Hi	2
+Mình muốn đặt Xe về nam định	2
 Hà nội 15h	2
 Hà nội 15h 9/3/2017	2
 15h	2
@@ -825,116 +1241,116 @@ Hà nội 15h 9/3/2017	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 Đi chung	2
 1	2
-Ko cần	3
-Ko	3
-Mình rất đẹp trai	0
-Ok	3
-ok	3
-Ahihi	0
-Good	3
-Hi	3
-Nothing	0
-T tên là Dương Hồ Minh Tú	0
-Đã hỏi đâu	0
+Ko cần	2
+Ko	2
+Mình rất đẹp trai	2
+Ok	2
+ok	2
+Ahihi	2
+Good	2
+Hi	2
+Nothing	2
+T tên là Dương Hồ Minh Tú	2
+Đã hỏi đâu	2
 Tôi muốn đi xe 4 chỗ đến Nghệ An	2
 Từ Bến xe nước ngầm hà nội	2
 Thị trấn cầu giát quỳnh lưu nghệ an	2
 10/3	2
 11h đêm	2
 Xe cao cấp	2
-No	3
-Ko	3
-ok	3
-ok	3
-Mẹc xi	0
-alo	3
-hi	3
-Uh	3
-Hi	3
-Đặt xe	4
+No	2
+Ko	2
+ok	2
+ok	2
+Mẹc xi	2
+alo	2
+hi	2
+Uh	2
+Hi	2
+Đặt xe	2
 Cao cap	2
 3	2
 4	2
 Mai	2
 8	2
-Ko	3
-Ko	3
-ok	3
-alo anh muon thu mac	0
-äöå	0
-Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	0
-Alo	3
-Ao	0
-Alo	3
-Alo	3
-Alo	3
-Alo	3
-Alo	3
-Bye	3
-Alo	3
-Alo	3
-alo	3
-bạn có khả năng gì?	1
-khách hàng có những cách đặt xe nào?	1
-khách hàng đặt xe thế nào bạn?	1
-vậy giúp mình đặt xe đi	4
+Ko	2
+Ko	2
+ok	2
+alo anh muon thu mac	2
+äöå	2
+Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	2
+Alo	2
+Ao	2
+Alo	2
+Alo	2
+Alo	2
+Alo	2
+Alo	2
+Bye	2
+Alo	2
+Alo	2
+alo	2
+bạn có khả năng gì?	2
+khách hàng có những cách đặt xe nào?	2
+khách hàng đặt xe thế nào bạn?	2
+vậy giúp mình đặt xe đi	2
 mình đi từ 2 láng hạ tới 3 thái hà vào chiều này lúc 14h	2
-Chị muốn đặt xe	4
+Chị muốn đặt xe	2
 5h kém 15 ngày 20.3	2
 2 lang ha	2
 5 Thái Hà, Trung Liệt, Đống Đa, Hà Nội	2
 minh đi bằng xe riêng 4 chỗ	2
-Bạn có những loại xe nào	1
+Bạn có những loại xe nào	2
 đi luôn chiều nay lúc 14h	2
 có mình về lúc 21h	2
-không	3
-Đi chung là thế nào	1
-Uk	3
-Giúp đặt xe đi	4
+không	2
+Đi chung là thế nào	2
+Uk	2
+Giúp đặt xe đi	2
 Anh đặt xe đi riêng	2
 4	2
 Hà nội	2
-Hi Decode: Hi	3
-Tôi muốn đặt xe	4
+Hi Decode: Hi	2
+Tôi muốn đặt xe	2
 Láng	2
 Hưng yên	2
 Láng	2
 Đi hà nội	2
-Alo	3
+Alo	2
 Đi hà nội	2
-/-strong/-strong/-strong	0
-Hi	3
+/-strong/-strong/-strong	2
+Hi	2
 Anh đi tới hà nội	2
 Anh đi tới hà nội	2
-Cho anh đặt xe đi Hà Nội từ Ninh Bình	4
+Cho anh đặt xe đi Hà Nội từ Ninh Bình	2
 Cao cấp	2
 4c	2
 Mai, 8h	2
-Ko	3
-Ko	3
+Ko	2
+Ko	2
 Anh đi tới hà nội	2
-Ok	3
+Ok	2
 Liên hệ với anh theo số 0989830433	2
-Test	0
-ok	3
-Alo	3
-Giúp anh đặt một xe đi hà nội	4
+Test	2
+ok	2
+Alo	2
+Giúp anh đặt một xe đi hà nội	2
 Hưng yên	2
 Ngày mai lúc 9h	2
 Xe riêng 4 chỗ	2
-Ko	3
-Ko	3
-Đúng rồi đó	3
-Đúng rồi đó	3
-giúp anh đặt xe đi từ Từ Liêm, Hà Nội tới cửa hàng Mai Tới	4
-bye	3
-giúp anh đặt xe đi Từ Liêm, Hà Nội	4
-bye	3
-giúp anh đặt xe đi Lê Đức Thọ, Mỹ Đình 1, Nam Từ Liêm, Hà Nộ	4
+Ko	2
+Ko	2
+Đúng rồi đó	2
+Đúng rồi đó	2
+giúp anh đặt xe đi từ Từ Liêm, Hà Nội tới cửa hàng Mai Tới	2
+bye	2
+giúp anh đặt xe đi Từ Liêm, Hà Nội	2
+bye	2
+giúp anh đặt xe đi Lê Đức Thọ, Mỹ Đình 1, Nam Từ Liêm, Hà Nộ	2
 ngày mai lúc 8h	2
 Lê Đức Thọ, Mỹ Đình 1, Nam Từ Liêm, Hà Nội	2
-bye	3
-giúp anh đặt xe đi Từ Liêm, Hà Nộ	4
+bye	2
+giúp anh đặt xe đi Từ Liêm, Hà Nộ	2
 Từ Liêm, Hà Nộ	2
 99 Lê Đức Thọ, Mỹ Đình 2, Nam Từ Liêm, Hà Nội	2
 Anh đi từ cửa hàng Mai Tới	2
@@ -942,16 +1358,16 @@ Anh đi từ cửa hàng Mai Tới	2
 xe riêng cao cấp	2
 xe riêng	2
 4	2
-khong	3
-kho	0
-alo	3
-chao	3
-dkfjsl	0
-xem lai don hang	0
+khong	2
+kho	2
+alo	2
+chao	2
+dkfjsl	2
+xem lai don hang	2
 cua hang Mai Tới Hà Nội cơ	2
-ok	3
-Chào 123xe	3
-Mình muốn đặt xe	4
+ok	2
+Chào 123xe	2
+Mình muốn đặt xe	2
 Đi từ thành phố Hồ Chí Minh	2
 VNG	2
 VNG LÊ ĐẠI HÀNH	2
@@ -959,34 +1375,34 @@ Flemington Tower, 182 Lê Đại Hành, phường 15, Hồ Chí Minh	2
 chùa thầy	2
 Cao cấp	2
 4 chôz	2
-Tính giá tiền cho mình	1
-Mình muốn biết trước chi phí. Ngày khởi hành lựa chọn sau	1
-Hủy	3
-Hủy chuyến	3
-Test bot	0
-By	0
-Bye	3
-Test bot.	0
-Thanks	3
-Chào 123xe	3
-Đặt xe	4
+Tính giá tiền cho mình	2
+Mình muốn biết trước chi phí. Ngày khởi hành lựa chọn sau	2
+Hủy	2
+Hủy chuyến	2
+Test bot	2
+By	2
+Bye	2
+Test bot.	2
+Thanks	2
+Chào 123xe	2
+Đặt xe	2
 Hồ Chính Minh đến Hà Nội	2
 Xe 4 chôz	2
 Flemington tower	2
-Cấn biết báo giá tiền	1
+Cấn biết báo giá tiền	2
 12	2
 13-10	2
 5 giờ	2
 Cao cấp	2
 4 chỗ	2
-Không	3
-Không	3
-Hủy	3
-Hủy xe	3
-Bye	3
-123xe tiện ích như thế nào ?	1
-Test bot.	0
-Giúp anh đặt xe đi em	4
+Không	2
+Không	2
+Hủy	2
+Hủy xe	2
+Bye	2
+123xe tiện ích như thế nào ?	2
+Test bot.	2
+Giúp anh đặt xe đi em	2
 Anh muốn đến trường cấp 3 tiên lữ	2
 Anh đi từ 5 thái hà	2
 Anh đi luôn hôm nay lúc 5h chiều	2
@@ -994,74 +1410,170 @@ Xe riêng 4 chỗ em nhé	2
 Có anh về sáng ngày 30/3	2
 5h sáng	2
 Đón anh đúng giờ	2
-ok	3
-alo	3
-Tính giá tiền cho mình	1
-Mình muốn biết trước chi phí	1
-Cấn biết báo giá tiền	1
-giup anh dat xe	4
+ok	2
+alo	2
+Tính giá tiền cho mình	2
+Mình muốn biết trước chi phí	2
+Cấn biết báo giá tiền	2
+giup anh dat xe	2
 anh đi vào ngày mai lúc 6h sáng	2
 trường cấp 3 tiên lữ	2
 5 thái hà	2
-gia ca the nao em	1
+gia ca the nao em	2
 anh đi xe riêng 4 chỗ	2
-gia ca the nao em	1
+gia ca the nao em	2
 có anh về cùng ngày lúc 18h	2
-khỏi	3
-giá rẻ không em?	1
-báo mình giá cho chuyến đi này	1
-anh cần biết giá trước	1
-giá bên em thế nào vậy?	1
-anh về lúc 23h30	1
-anh về ngày 24/3	1
-anh về ngày 25/3	1
-äöå	0
-alo	3
-alo	3
-alo	3
+khỏi	2
+giá rẻ không em?	2
+báo mình giá cho chuyến đi này	2
+anh cần biết giá trước	2
+giá bên em thế nào vậy?	2
+anh về lúc 23h30	2
+anh về ngày 24/3	2
+anh về ngày 25/3	2
+äöå	2
+alo	2
+alo	2
+alo	2
 Xe riêng 100 chỗ	2
-alo	3
-Thủ tục đăng ký làm tài xế cho 123Xe thế nào?	1
-Hi	3
-Tôi muốn tham gia 123xe	1
-sdjllldsjflk	0
-Ngon ko	0
-Alo	3
-Giúp đặt xe	4
+alo	2
+Thủ tục đăng ký làm tài xế cho 123Xe thế nào?	2
+Hi	2
+Tôi muốn tham gia 123xe	2
+sdjllldsjflk	2
+Ngon ko	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h	2
+ko	2
+ko	2
+ok	2
+alo	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h	2
+ko	2
+ko	2
+ok	2
+surpass	2
+surpass	2
+surpass	2
+surpass	2
+surpass	2
+surpass	2
+surpass	2
+surpass	2
+surpass	2
+surpass	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+v	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+v	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+v	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye\	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h. Bye	2
+alo	2
+alo	2
+helo	2
+cho anh đặt xe đi bắc ninh	2
+hôm nay	2
+14h chiều	2
+2h chiều	2
+cầu giấy	2
+______________________	2
+17 Duy tân, cầu giấy	2
+phường tiền an, thành phố bắc ninh	2
+đi chung	2
+4	2
+không	2
+không	2
+Alo	2
+Giúp đặt xe	2
 Ngày mai	2
 3h	2
 3 láng hạ	2
 3 Láng Hạ, Đống Đa, Hà Nội	2
 2 thái hà	2
 2, Đường Thái Hà, Quận Đống Đa, Hà Nội	2
-Hilo	0
+Hilo	2
 Chọn xe đi chung cho 4 người	2
-Không	3
-Ko	3
-Tôi chỉ thư hệ thống tí thôi	0
-Bye	3
-Cho tôi đặt xe	4
+Không	2
+Ko	2
+Tôi chỉ thư hệ thống tí thôi	2
+Bye	2
+Cho tôi đặt xe	2
 30/3	2
 3h	2
 2 lang ha	2
 3 thái hà	2
 Mình đi xe riêng 4 chỗ	2
-Ko	3
-Không đồng ý	3
-Ko	3
-Ko	3
-Ko	3
-Ko	3
-Ko	3
-Ko	3
-Ko	3
-Ko	3
-Ko	3
-Ko dat nua	3
-alo	3
-äöå	0
-Chào	3
-Tôi muốn đặt xe	4
+Ko	2
+Không đồng ý	2
+Ko	2
+Ko	2
+Ko	2
+Ko	2
+Ko	2
+Ko	2
+Ko	2
+Ko	2
+Ko	2
+Ko dat nua	2
+alo	2
+äöå	2
+Chào	2
+Tôi muốn đặt xe	2
 Xe riêng 4 chỗ	2
 3 láng hạ	2
 3 Láng Hạ, Chợ Dừa, Ba Đình, Hà Nội	2
@@ -1069,29 +1581,29 @@ Hồ xuân hương, trường sơn	2
 10.3	2
 21h ngày 10/3	2
 21h	2
-Có	3
+Có	2
 22 giờ ngày 10/3	2
 22h	2
-Ko	3
-Hi	3
-Tôi muốn đặt xe	4
+Ko	2
+Hi	2
+Tôi muốn đặt xe	2
 Hồ xuân hương, trường sơn	2
 3 láng hạ	2
 3 Láng Hạ, Chợ Dừa, Ba Đình, Hà Nội	2
 Ngày 10/3	2
 21h	2
 Xe riêng 4 chỗ	2
-Có	3
+Có	2
 10/3	2
 22h	2
-Ko	3
-Bye	3
-Hi	3
+Ko	2
+Bye	2
+Hi	2
 Cho mình hỏi xe 29 chỗ	2
 Sân vận động mỹ đình	2
 Hà nội - lào cai	2
-Bye	3
-Hi	3
+Bye	2
+Hi	2
 Cho mình hỏi xe 29 chỗ	2
 Sân vận động mỹ đình	2
 Hà Nội - Lào Cái	2
@@ -1099,173 +1611,173 @@ Hà Nội - Lào Cai, Lào Cai	2
 27/7	2
 8:00	2
 Đi riêng	2
-Có	3
+Có	2
 2 chiều	2
 8:00 ngày 27/03	2
 Về 15:00 ngày 27/7	2
-Chào em	3
-Cho anh đặt một xe 4 chỗ đi bien Sầm Sơn	4
+Chào em	2
+Cho anh đặt một xe 4 chỗ đi bien Sầm Sơn	2
 Ngày 30/04	2
 8h	2
 Đi riêng 4 chỗ	2
-Có	3
+Có	2
 9h ngày 2/5	2
 9h	2
-Có	3
+Có	2
 Xe mới và có nữ lái nhé. Ăn ngủ cùng đoàn	2
-ok	3
-Alo	3
-TÔi không muốn đặt xe	0
-Không muốn đặt xe chứ không phải là muốn đặt xe	0
-Tôi không muốn đi xe	0
-Đã nói không muốn đặt xe cơ mà	0
-Ai chả biết, nhưng có đi xe đâu, đang muốn hỏi thăm tý ko được ah?	0
-Đùa ấy ah? Muốn hỏi thăm xem dạo này khỏe không, xe cộ gì? Nhà đầy xe!	0
-Thôi được rồi, đi không riêng!	0
-Không phải, tôi muốn đi các loại không phải đi riêng ấy	0
-Khởi hành ah, đâu cũng được, tùy bên ấy đón	0
-Không trung	0
+ok	2
+Alo	2
+TÔi không muốn đặt xe	2
+Không muốn đặt xe chứ không phải là muốn đặt xe	2
+Tôi không muốn đi xe	2
+Đã nói không muốn đặt xe cơ mà	2
+Ai chả biết, nhưng có đi xe đâu, đang muốn hỏi thăm tý ko được ah?	2
+Đùa ấy ah? Muốn hỏi thăm xem dạo này khỏe không, xe cộ gì? Nhà đầy xe!	2
+Thôi được rồi, đi không riêng!	2
+Không phải, tôi muốn đi các loại không phải đi riêng ấy	2
+Khởi hành ah, đâu cũng được, tùy bên ấy đón	2
+Không trung	2
 Điên ah, ở Hà Nội	2
-Không đi nữa!	3
-Không trả lời khách ah	0
-Bye!	3
-Đã dùng đâu	0
-Đùa tý thôi	0
-Kiẻm tra AI của hệ thống tý mà	0
-Giúp anh đặt một chuyến đi chung cho 2 vợ chộng vào ngày mai tới sa pa nhé	4
+Không đi nữa!	2
+Không trả lời khách ah	2
+Bye!	2
+Đã dùng đâu	2
+Đùa tý thôi	2
+Kiẻm tra AI của hệ thống tý mà	2
+Giúp anh đặt một chuyến đi chung cho 2 vợ chộng vào ngày mai tới sa pa nhé	2
 8h sáng đi	2
 anh đi từ hà nội	2
 09 Fansipan Street, Sa Pa, Lao Cai, Lào Cai	2
 anh chọn đi chung rồi mà	2
 có ành về ngày 25/3 lúc 10h	2
-không	3
-ok được	3
-chào em, giúp anh đặt một xe riêng 4 chỗ đi sa pa nhé	4
-chào em, giúp anh đặt một xe riêng 4 chỗ tới sa pa nhé	4
-chào	3
-bye	3
-chào	3
-giúp anh đặt một xe riêng 4 chỗ đi sa pa vào ngày mai nhé	4
+không	2
+ok được	2
+chào em, giúp anh đặt một xe riêng 4 chỗ đi sa pa nhé	2
+chào em, giúp anh đặt một xe riêng 4 chỗ tới sa pa nhé	2
+chào	2
+bye	2
+chào	2
+giúp anh đặt một xe riêng 4 chỗ đi sa pa vào ngày mai nhé	2
 09 Fansipan Street, Sa Pa, Lao Cai, Lào Cai	2
 5 thái ha em ạ	2
 anh đi xe riêng	2
 đón anh lúc 8h sáng	2
 có anh về ngày 25/3 lúc 10h	2
-Ko	3
+Ko	2
 anh về cùng ngày luôn	2
-ok đặt giúp anh	4
-giúp anh đặt xe riêng 45 chỗ đi chùa Bái đính vào ngày mai	4
+ok đặt giúp anh	2
+giúp anh đặt xe riêng 45 chỗ đi chùa Bái đính vào ngày mai	2
 anh đi từ trường cấp 3 tiên lữ	2
 5h sáng em nhé	2
 có anh về cùng ngày lúc 18h	2
-ko	3
-giá bao nhiêu vậy em	1
-ngon, giúp anh đặt luôn	4
-ok	3
-giúp anh đặt xe riêng 45 chỗ đi chùa Bái đính vào ngày mai nhé	4
+ko	2
+giá bao nhiêu vậy em	2
+ngon, giúp anh đặt luôn	2
+ok	2
+giúp anh đặt xe riêng 45 chỗ đi chùa Bái đính vào ngày mai nhé	2
 5h sáng em ạ	2
 cấp 3 tiên lữ	2
 anh đi từ trường cấp 3 tiên lữ	2
-bye	3
-giúp anh đặt xe riêng 4 chỗ đi chùa Bái đính vào ngày mai	4
+bye	2
+giúp anh đặt xe riêng 4 chỗ đi chùa Bái đính vào ngày mai	2
 anh đi từ trường cấp 3 tiễn lữ nhé	2
 5h30 sáng	2
 có, anh về cùng ngày lúc 17h30	2
 Xe sạch sẽ, không mui thuốc lá và bụi bặm	2
-bye	3
-khong	3
-giúp anh đặt một xe riêng 4 chỗ đi chùa Bái đính vào ngày mai	4
+bye	2
+khong	2
+giúp anh đặt một xe riêng 4 chỗ đi chùa Bái đính vào ngày mai	2
 Anh đi từ trường cấp 3 tiên lữ	2
 anh chọn xe thường 4 chỗ cho rẻ :D	2
 anh đi xe thường 4 chỗ	2
 5h sáng em nhé	2
 có, anh về cùng ngày lúc 17h30	2
-Không có	3
-gia the nao day ad	1
-giá được đấy, đặt, chốt xe cho anh luôn nhé	0
-đặt giúp anh đi	4
-ngon em ạ, đặt xe luôn cho anh	4
-được rồi đấy em	0
-Cho anh một xe cao cấp 4 chỗ đi Nam Từ Liêm	4
+Không có	2
+gia the nao day ad	2
+giá được đấy, đặt, chốt xe cho anh luôn nhé	2
+đặt giúp anh đi	2
+ngon em ạ, đặt xe luôn cho anh	2
+được rồi đấy em	2
+Cho anh một xe cao cấp 4 chỗ đi Nam Từ Liêm	2
 5 thái hà nhé	2
 Nam Từ Liêm, anh nói ở trên rồi mà ??	2
 đi luôn chiều nay lúc 16h	2
 anh đi xe riêng mà em? lẫn à?	2
-không	3
-ko	3
-bye	3
-đặt cho anh một chuyến khứ hồi tới trường cấp 3 tiên lữ vào chiều nay lúc 17h30	4
+không	2
+ko	2
+bye	2
+đặt cho anh một chuyến khứ hồi tới trường cấp 3 tiên lữ vào chiều nay lúc 17h30	2
 5 thái hà em nhé	2
 anh đi xe riêng tiết kiệm 4 chỗ	2
 anh đi xe riêng 4 chỗ nhé :D	2
 anh về cùng ngày lúc 22h	2
 Đón anh đúng giờ nhé	2
-ok	3
-giup anh dat xe ve que Ninh Binh	4
+ok	2
+giup anh dat xe ve que Ninh Binh	2
 anh đi xe cao cấp 4 chỗ	2
 từ Hà nội	2
 Mình đi Tam Điệp, Ninh Binh cơ	2
 Tây Sơn, Tam Điệp, Ninh Bình	2
 ngày mai lúc 3h	2
 có anh về lúc 17h cùng ngày	2
-không	3
+không	2
 anh chuyển chon đi chung nhé	2
 4	2
-ok, ngon	3
-đặt cho anh một chuyến khứ hồi tới trường cấp 3 tiên lữ vào chiều nay lúc 17h30	4
+ok, ngon	2
+đặt cho anh một chuyến khứ hồi tới trường cấp 3 tiên lữ vào chiều nay lúc 17h30	2
 anh đi xe riêng 4 chỗ	2
 từ 5 thái hà em nhé	2
 anh về luôn lúc 22h cùng ngày	2
 Đúng giờ nhé!	2
 Đón anh đúng giờ	2
-đặt giúp anh	4
-đúng hết rồi, đặt giúp anh đi	4
-a	0
-cái gì cưo	0
-fadfafd	0
-hello	3
-hello	3
-đặt xe	4
+đặt giúp anh	2
+đúng hết rồi, đặt giúp anh đi	2
+a	2
+cái gì cưo	2
+fadfafd	2
+hello	2
+hello	2
+đặt xe	2
 đi chung	2
 Mai Dịch	2
-cho anh đặt xe đi bắc ninh	4
+cho anh đặt xe đi bắc ninh	2
 Nội Bài	2
 3	2
 5h30	2
-không	3
-không	3
+không	2
+không	2
 Phường Tiền An, thành phố bắc ninh	2
 hà nội	2
-đã check tới đây	0
-alo	3
-Alo	3
-ALO	3
-äöå	0
-chào em	3
-giá bên em thế nào? có đắt không?	1
-vậy đặt giúp anh một xe cao cấp 4 chỗ tới trường cấp 3 tiên lữ vào chiều mai lúc 17h30	4
+đã check tới đây	2
+alo	2
+Alo	2
+ALO	2
+äöå	2
+chào em	2
+giá bên em thế nào? có đắt không?	2
+vậy đặt giúp anh một xe cao cấp 4 chỗ tới trường cấp 3 tiên lữ vào chiều mai lúc 17h30	2
 165 thái hà em ạ	2
 Anh đi xe cao cấp 4 chỗ	2
 Có anh về ngày 20/3 lúc 6h	2
 20/3	2
-Đón đúng giờ không anh muộn làm xếp trừ lương	0
-ok	3
-Hi	3
-Ổn chưa	0
-Ổn hơn chưa?	0
-Đồng ý đặt xe	3
-Có những loại xe nào? Giá bao nhiêu bạn?	1
-Cho anh đặt xe rieng 4 chỗ đi từ Hồ Gươm tới Chùa Hương vào 8h sáng mai nhé	4
+Đón đúng giờ không anh muộn làm xếp trừ lương	2
+ok	2
+Hi	2
+Ổn chưa	2
+Ổn hơn chưa?	2
+Đồng ý đặt xe	2
+Có những loại xe nào? Giá bao nhiêu bạn?	2
+Cho anh đặt xe rieng 4 chỗ đi từ Hồ Gươm tới Chùa Hương vào 8h sáng mai nhé	2
 Hương Sơn, Mỹ Đức, Hà Nội	2
-Ko	3
-Khong	3
-Ko	3
-ok	3
-Hi	3
-Mình muốn đặt xe	4
-bye	3
+Ko	2
+Khong	2
+Ko	2
+ok	2
+Hi	2
+Mình muốn đặt xe	2
+bye	2
 Mình muốn đi Bắc Quang	2
-giup minh dat xe	4
+giup minh dat xe	2
 Hiện tại	2
 mình đi từ 2 thái hà tới 2 láng hạ	2
 Đi riêng	2
@@ -1273,32 +1785,32 @@ mình đi từ 2 thái hà tới 2 láng hạ	2
 25/3	2
 8:00	2
 mình đi xe cao cấp 4 chỗ	2
-Không	3
-Không	3
+Không	2
+Không	2
 ngày mai lúc 17h30	2
-ok	3
-ok	3
-Ko	3
-ok	3
-Xin chào	3
-Mình đang cần đặt xe đi lai châu cuối tuần này	4
+ok	2
+ok	2
+Ko	2
+ok	2
+Xin chào	2
+Mình đang cần đặt xe đi lai châu cuối tuần này	2
 Mình xuất phát lúc sáng sớm	2
 Ngày 3.4	2
 5h	2
 Đón mình ở khu đô thị dương nội hà đông nhé	2
-bye	3
+bye	2
 Khu đô thị dương nội hà đông	2
-alo	3
-Ko	3
+alo	2
+Ko	2
 Dương Nội, Hà Đông, Hà Nội	2
 Lai châu	2
-Giá xe riêng 4 chỗ thế nào	1
-Xe 7 chỗ giá bao nhiêu	1
+Giá xe riêng 4 chỗ thế nào	2
+Xe 7 chỗ giá bao nhiêu	2
 Mèo vạc lai cháu	2
-Hi	3
-Anh muốn thuê xe	4
-Hi	3
-Mình muốn đặt xe	4
+Hi	2
+Anh muốn thuê xe	2
+Hi	2
+Mình muốn đặt xe	2
 Anh muốn đi tuyên quang	2
 TP tuyên quang	2
 Anh muốn đi ngày 24/03	2
@@ -1309,95 +1821,114 @@ Mình đi 1 chiều	2
 Thành phố Tuyên Quang	2
 Mình đi 1 chiều	2
 Chiêu, Tam Thanh, Tân Sơn, Phú Thọ	2
-Không	3
-Không	3
-ok	3
-test	0
-ối	0
-alo	3
-cam on ba da o day	0
-bạn có những khả năng gì	1
-hi man	3
-cho mình đặt 1 xe 4 chỗ đi Sầm Sơn - Thanh Hóa vào 30/04 nhé.	4
+Không	2
+Không	2
+ok	2
+test	2
+ối	2
+alo	2
+cam on ba da o day	2
+bạn có những khả năng gì	2
+hi man	2
+cho mình đặt 1 xe 4 chỗ đi Sầm Sơn - Thanh Hóa vào 30/04 nhé.	2
 cao cấp	2
-alo	3
-Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-Thanh Hóa lúc 8h, về lúc 16h cùng ngày.	4
+alo	2
+Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-Thanh Hóa lúc 8h, về lúc 16h cùng ngày.	2
 mình thích xe riêng 2 chỗ bạn ạ	2
-Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-Thanh Hóa lúc 8h, về lúc 16h cùng ngày.	4
+Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-Thanh Hóa lúc 8h, về lúc 16h cùng ngày.	2
 mình thích xe riêng 2 chỗ bạn ạ	2
-được rồi	3
-để xem chú mày thế nào	0
-khởi động xong chưa?	0
-Cho anh đặt  1 xe 4 chỗ đi Sầm Sơn - Thanh Hóa vào 8h ngày 30 tháng 4. Về lúc 20h ngày 01/05	4
+được rồi	2
+để xem chú mày thế nào	2
+khởi động xong chưa?	2
+Cho anh đặt  1 xe 4 chỗ đi Sầm Sơn - Thanh Hóa vào 8h ngày 30 tháng 4. Về lúc 20h ngày 01/05	2
 xe riêng	2
-Chào	3
-Tôi cần xe đi thái nguyên cuối tuần này	4
-Tôi cần đặt xe	4
+Chào	2
+Tôi cần xe đi thái nguyên cuối tuần này	2
+Tôi cần đặt xe	2
 Dương nội	2
-äöå	0
-Happy、、☆.. . ☆Women＼＼＊ ＊、Day＼＊•＊ 。  _::_______ ★。 ☆/_________/\  。 . . |_ 画_画|_'|☆。 Chúc mừng ngày Quốc tế phụ nữ	0
-Hello	3
-Giúp đặt xe đi	4
+giup anh dat mot chuyen xe	2
+anh đi lúc 5h chiều nay	2
+anh đi từ công ty VNG Hà Nội	2
+Siêu thị Big C, Hà nội	2
+5 thái hà	2
+tràng an, Ninh bình	2
+anh đi xe riêng	2
+4	2
+có anh về cùng ngày mai lúc 14h	2
+anh về ngày kia lúc 14h	2
+ngày kia lúc 14h	2
+lúc 14h ngày kia	2
+anh về ngày kia lúc 14h	2
+anh về ngày 30/3 lúc 15h	2
+ko	2
+ok	2
+ok	2
+👉	2
+🙏	2
+äöå	2
+Happy、、☆.. . ☆Women＼＼＊ ＊、Day＼＊•＊ 。  _::_______ ★。 ☆/_________/\  。 . . |_ 画_画|_'|☆。 Chúc mừng ngày Quốc tế phụ nữ	2
+Hello	2
+Giúp đặt xe đi	2
 Xe rieng 4 cho di mai dong	2
 3 lang ha	2
 3 Láng Hạ, Đống Đa, Hà Nội	2
 Lúc 3h chiều nay	2
 Xin lỗi, 15h chiều nay	2
-Có	3
+Có	2
 20h cùng ngày	2
 Hôm nay luôn	2
 30h	2
 30h30	2
 20h	2
-Gọi điện báo lại vào số 090....	0
-Ok	3
-ok	3
-HEllo	3
-Byw	0
-Bye	3
-Giúp mình đặt xe đi	4
+Gọi điện báo lại vào số 090....	2
+Ok	2
+ok	2
+HEllo	2
+Byw	2
+Bye	2
+Giúp mình đặt xe đi	2
 Tôi cần xe riêng 4 chỗ vào ngày mai	2
 Lúc 8h	2
-Alo	3
+Alo	2
 Mình đi từ 3 thái hà	2
  Có, mình đi về lúc 15h cùng ngày	2
 Mình đi về vào ngày mai	2
 108 phương mai,  đống đa, hà nội	2
 108E9 Phương Mai, Đống Đa, Hà Nội	2
-Có	3
+Có	2
 Ngày mai lúc 15h	2
 15h	2
 Mình đi lúc 9h mà	2
 15h	2
-Alo	3
-mình đặt xe đi ngày mai đến 3 thái hà từ 2 láng hà băng xe riêng 4 chỗ	4
+Alo	2
+mình đặt xe đi ngày mai đến 3 thái hà từ 2 láng hà băng xe riêng 4 chỗ	2
 2 lang ha noi roi ma	2
 2 lang ha	2
-Xin chào	3
+Xin chào	2
 ngay mai luc 3 h	2
-khong	3
-cos	0
-co	3
-ok thank	3
-Tôi muốn đặt xe đi thái bình vào ngày 12.3	4
-Tôi muốn đặt xe đi thái bình vào ngày 12/3	4
+khong	2
+cos	2
+co	2
+ok thank	2
+Tôi muốn đặt xe đi thái bình vào ngày 12.3	2
+Tôi muốn đặt xe đi thái bình vào ngày 12/3	2
 5h	2
 Vũ thư thái bình	2
 Tôi muốn đi từ 2 láng hạ đến 165 thái hà bằng xe 4 chỗ	2
-Bye	3
-Tôi muốn đặt xe đi từ 2 láng hạ đến 165 thái hà bằng xe riêng 4 chỗ	4
+Bye	2
+Tôi muốn đặt xe đi từ 2 láng hạ đến 165 thái hà bằng xe riêng 4 chỗ	2
 8h ngày 4/5	2
 6h	2
 3 láng hạ	2
 3 Láng Hạ, Thành Công, Ba Đình, Hà Nội	2
-Ko cần	3
-Alo ban co kha nag gi	1
-Ko	3
-Ban co kha nang gi	1
-Ban co kha nang gi	1
-Alo	3
-Bạn có khả năng gì?	1
-Vậy giúp mình đặt xe đi	4
+Ko cần	2
+Alo ban co kha nag gi	2
+Ko	2
+Ban co kha nang gi	2
+Ban co kha nang gi	2
+Alo	2
+Bạn có khả năng gì?	2
+Vậy giúp mình đặt xe đi	2
 Mình đi từ bến xe mỹ đình đến cấp 3 tiên lữ hưng yên	2
 Mình đi cấp 3 tiên lữ	2
 Thị trấn Vương, Tiên Lữ Hưng Yên, Việt Nam	2
@@ -1406,11 +1937,11 @@ Mình chỉ đi xe riêng 4 chỗ thôi	2
 Cùng được mình về lúc 10h	2
 Ngày mai luôn	2
 10h mà	2
-Ko	3
-ok	3
-Hi	3
-Mình muốn hỏi giá xe	1
-Mình muốn đặt xe	4
+Ko	2
+ok	2
+Hi	2
+Mình muốn hỏi giá xe	2
+Mình muốn đặt xe	2
 Mình đi Đà Lạt	2
 Hồ chí minh	2
 491/5/6J Nguyễn Đình Chiểu, phường 2, Quận 3, Hồ Chí Minh	2
@@ -1418,65 +1949,65 @@ Chung	2
 0	2
 Ngày 11/03 8h	2
 8h	2
-Không	3
-ok	3
-hi	3
-toi muon dat mot xe 15 cho	4
+Không	2
+ok	2
+hi	2
+toi muon dat mot xe 15 cho	2
 nguyen du, hai ba trung	2
 355 Võ Văn Tần, phường 5, Quận 3, HO CHI MINH CITY	2
-Cho mình đặt một xe từ 138 trần bình, mỹ đình tới chùa Bái Đính vào 8h tối mai nhé bạn	4
+Cho mình đặt một xe từ 138 trần bình, mỹ đình tới chùa Bái Đính vào 8h tối mai nhé bạn	2
 8h tối mai	2
 Đi riêng 4 chỗ	2
-Ko cần	3
-Ko	3
-Không	3
-Ko	3
-ok	3
-Hello	3
-alo shop ơi	0
-có xe ko ?	0
-không hiểu à	0
-chán thế, tính tâm sự tí	0
-ừ	3
-ok	3
-ngon	0
-ai đang support thế	0
-thanks	3
-alo bot ơi	3
-cũng ngon	0
-Lala Shop đang muốn làm bot đây	0
-#gioithieu	1
-Tôi muốn đặt xe đi hà nội	4
+Ko cần	2
+Ko	2
+Không	2
+Ko	2
+ok	2
+Hello	2
+alo shop ơi	2
+có xe ko ?	2
+không hiểu à	2
+chán thế, tính tâm sự tí	2
+ừ	2
+ok	2
+ngon	2
+ai đang support thế	2
+thanks	2
+alo bot ơi	2
+cũng ngon	2
+Lala Shop đang muốn làm bot đây	2
+#gioithieu	2
+Tôi muốn đặt xe đi hà nội	2
 Đi từ sài gòn	2
 Mai đi	2
 8h đc ko	2
 8h	2
 Riêng đi	2
 4 chỗ thôi	2
-Ko	3
-Không	3
-Không	3
-Giá bao nhiêu vậy	1
-ok	3
-Hi	3
-Tham gia tài xế như thế nào?	1
-123Xe lấy bao nhiêu?	1
-Thanks. Bye	3
-ok	3
-ok	3
-Ok	3
-Cảm ơn	3
-Hi	3
-Cho anh đặt 1 xe 4 chỗ đi riêng về Bái Đính, Ninh Bình ngày 14/04/2017	4
+Ko	2
+Không	2
+Không	2
+Giá bao nhiêu vậy	2
+ok	2
+Hi	2
+Tham gia tài xế như thế nào?	2
+123Xe lấy bao nhiêu?	2
+Thanks. Bye	2
+ok	2
+ok	2
+Ok	2
+Cảm ơn	2
+Hi	2
+Cho anh đặt 1 xe 4 chỗ đi riêng về Bái Đính, Ninh Bình ngày 14/04/2017	2
 Xe riêng 4 chỗ	2
 8h tối nhé	2
-Ko	3
-Không	3
-Ko	3
-ok	3
-Xin chào	3
-hi	3
-đặt xe	4
+Ko	2
+Không	2
+Ko	2
+ok	2
+Xin chào	2
+hi	2
+đặt xe	2
 riêng	2
 4	2
 mai	2
@@ -1485,54 +2016,54 @@ mai	2
 10	2
 mười	2
 8h	2
-cung cấp kiểu gì	0
+cung cấp kiểu gì	2
 Ecopark	2
 Xuân Quan, Văn Giang, Hưng Yên	2
 sân bay nội bài	2
-ok	3
+ok	2
 18/3	2
 22h	2
-ko	3
-ok	3
-ok	3
-okk	0
-cho gửi lời khen TS Thành	0
-đã dậy con bot này	0
-thông minh hơn rồi	0
-nhưng khi khách hàng trả lời giờ	0
-thì gõ 8 hoặc 9	0
-thì lại ko hiểu	0
-haha	0
-không cần điểm	0
-nhớ trả tiền cho tester	0
-góp ý nhé	0
-hotline gì mà gọi chả ai nghe máy cả	0
-đăng ký cái 1900 cho nó chuyên nghiệp	0
-nhìn cái số tưởng cố định saigon	0
-hi	3
-mình muốn đặt xe đi đà lạt	4
-xem giá	1
+ko	2
+ok	2
+ok	2
+okk	2
+cho gửi lời khen TS Thành	2
+đã dậy con bot này	2
+thông minh hơn rồi	2
+nhưng khi khách hàng trả lời giờ	2
+thì gõ 8 hoặc 9	2
+thì lại ko hiểu	2
+haha	2
+không cần điểm	2
+nhớ trả tiền cho tester	2
+góp ý nhé	2
+hotline gì mà gọi chả ai nghe máy cả	2
+đăng ký cái 1900 cho nó chuyên nghiệp	2
+nhìn cái số tưởng cố định saigon	2
+hi	2
+mình muốn đặt xe đi đà lạt	2
+xem giá	2
 ngày mai	2
 21h	2
-tìm xe	0
+tìm xe	2
 chợ hòa bình	2
-đặt xe	4
+đặt xe	2
 hôm qua	2
 bây giờ	2
 hôm nay	2
 5 phút trước	2
 bây giờ	2
 ngay lúc này	2
-hic ... :(	0
-Hi	3
-hello	3
-Bạn có thể giúp gì cho tôi	1
-giúp tôi giải bài tập được không Decode: hi	0
-Thông tin hệ thống	0
-giúp tôi cách đi của quân xe	0
-đến cuối bàn cờ	0
-hihi	0
-hi	3
+hic ... :(	2
+Hi	2
+hello	2
+Bạn có thể giúp gì cho tôi	2
+giúp tôi giải bài tập được không Decode: hi	2
+Thông tin hệ thống	2
+giúp tôi cách đi của quân xe	2
+đến cuối bàn cờ	2
+hihi	2
+hi	2
 đi xe về bắc ninh	2
 4 chỗ	2
 riêng	2
@@ -1543,34 +2074,34 @@ ba Đình	2
 Đội Cấn, Ba Đình	2
 bắc ninh	2
 bắc ninh việt nam	2
-test	0
-xxx	0
-yyy	0
-hey	0
-dat xe di Ha Noi	4
+test	2
+xxx	2
+yyy	2
+hey	2
+dat xe di Ha Noi	2
 9h ngay 14/3	2
 9h sang	2
 11h toi	2
 11h toi ngay 15/3	2
 saigon	2
-hi	3
-xe nào đẹp?	0
-thử chat tự động	0
-Xin chào	3
-Thuê xe	4
-Hi	3
-Tên bạn là hì	0
-Chào	3
-Có những xe gì	1
-Đặt xe thế nào	1
-xin chào	3
-Bot	0
-Bot ngu	0
-bên bạn có bán xe ko nhỉ	0
-bạn tên là gì	0
-bot này có thể làm gì	1
-đặt xe đi đâu được nhỉ	1
-Giúp đặt xe	4
+hi	2
+xe nào đẹp?	2
+thử chat tự động	2
+Xin chào	2
+Thuê xe	2
+Hi	2
+Tên bạn là hì	2
+Chào	2
+Có những xe gì	2
+Đặt xe thế nào	2
+xin chào	2
+Bot	2
+Bot ngu	2
+bên bạn có bán xe ko nhỉ	2
+bạn tên là gì	2
+bot này có thể làm gì	2
+đặt xe đi đâu được nhỉ	2
+Giúp đặt xe	2
 Xe chung nhưng cao cấp chút	2
 Trên 5 chỗ là ok	2
 5, 6 hoặc 7 chỗ	2
@@ -1582,29 +2113,29 @@ Mù Cang chải	2
 225 Ngô Quyền Hà Nội	2
 Ngô Quyền, Hoàn Kiếm, Hà Nội	2
 226 Ngô Quyền Hà Nội	2
-Ko	3
-Ko cần	3
-Không	3
-Xăng bơm sẵn chưa	0
-ok	3
-ok	3
-Test thôi	0
-Bot ơi	3
-Hỏi thêm dc không	0
-Ok	3
-abc	0
-Ê	0
-có thể đặt xe đi đâu được nhỉ	1
-Help	1
-Trợ giúp	1
-123 xe là gì	1
-Bot ngu	0
-Còn phải cải thiện nhiều	0
-Hế lu	0
-alo	1
-thời tiết hôm nay thế nào ?	0
-có xe về Nam Định ko	1
-có xe cho Ngọc Trinh ko ?	0
+Ko	2
+Ko cần	2
+Không	2
+Xăng bơm sẵn chưa	2
+ok	2
+ok	2
+Test thôi	2
+Bot ơi	2
+Hỏi thêm dc không	2
+Ok	2
+abc	2
+Ê	2
+có thể đặt xe đi đâu được nhỉ	2
+Help	2
+Trợ giúp	2
+123 xe là gì	2
+Bot ngu	2
+Còn phải cải thiện nhiều	2
+Hế lu	2
+alo	2
+thời tiết hôm nay thế nào ?	2
+có xe về Nam Định ko	2
+có xe cho Ngọc Trinh ko ?	2
 mai ?	2
 ngày mai	2
 chiều đi, 2 giờ	2
@@ -1612,19 +2143,19 @@ chiều đi, 2 giờ	2
 new york	2
 nam định	2
 broadway, new york	2
-chat bot ngu	0
-chat bot ngu	0
-chat bot ngu ghê	0
-chat bot ngu	0
-chat bot đẹp trai	0
-123 xe	0
-ứ chọn ờ	0
-bên mình bán sản phẩm gì thế	0
-gía thuê xe ở hà nội thê nào	1
-mình muốn thuê 2 xe	4
-nói câu khác nghe coi	0
-cho mình cái giá	1
-cho mình đặt xe	1
+chat bot ngu	2
+chat bot ngu	2
+chat bot ngu ghê	2
+chat bot ngu	2
+chat bot đẹp trai	2
+123 xe	2
+ứ chọn ờ	2
+bên mình bán sản phẩm gì thế	2
+gía thuê xe ở hà nội thê nào	2
+mình muốn thuê 2 xe	2
+nói câu khác nghe coi	2
+cho mình cái giá	2
+cho mình đặt xe	2
 siêu xe	2
 xe cao câp	2
 xe cao cấp	2
@@ -1637,104 +2168,123 @@ Quận 1 Sài Gòn	2
 80 chỗ	2
 ngày kia	2
 3 giờ chiều	2
-không	3
-cho mình xin ít tiền	0
-xac nhận	0
-Alo	3
-giúp anh đặt xe	4
+không	2
+cho mình xin ít tiền	2
+xac nhận	2
+hello	2
+em có thể làm gì?	2
+em có thể đặt xe giúp anh không?	2
+vậy giúp anh đặt một chuyến	2
+giup anh dat xe	2
+anh đi xe riêng 4 chỗ tới phường Tây Sơn,Tam điệp, Ninh bình	2
+anh đi thứ 7 lúc 7h30	2
+ngày 1/4 lúc 7h30	2
+ở gần trường cấp 3 tiên lữ em nhé	2
+có anh về cùng ngày lúc 15h30 nhé	2
+không	2
+Buổi trưa mình mời cơm tài xế luôn nhé	2
+anh mời lái xe cơm trưa có được giảm tiền không? :D	2
+gia the nao y em nhi?	2
+làm gì đi nhanh thế, phải 2 tiếng	2
+ok	2
+cảm ơn em nhé	2
+đón anh đúng giờ nhé	2
+ok	2
+Alo	2
+giúp anh đặt xe	2
 anh đi xe riêng 4 chỗ	2
 anh đi từ 5 thái hà tới 2 láng hạ	2
 vào ngày mai lúc 8h sáng	2
 có anh về cùng ngày lúc 4h chiều	2
-không	3
-gia the nao vay em	1
-ok đặt giúp anh đi	4
-cảm ơn em	3
-alo	3
-Hi	3
-mình mốn thuê xe	0
-mình muốn thuê xe riêng	4
+không	2
+gia the nao vay em	2
+ok đặt giúp anh đi	2
+cảm ơn em	2
+alo	2
+Hi	2
+mình mốn thuê xe	2
+mình muốn thuê xe riêng	2
 Mình đi Từ Thanh Hóa	2
 Thành Phố Thanh Hóa	2
 giup anh dat xe di Ha Noi	2
 Ha Noij	2
-Gia ca ben an the nao?	1
-à, mình là mem cũ của GRD :)) Mình test tính năng của con bot thôi bạn :D  Cảm ơn bạn nha.	0
-giup anh dat xe di	4
-bye	3
-giúp anh đặt xe đi trường cấp 3 tiên lữ	4
+Gia ca ben an the nao?	2
+à, mình là mem cũ của GRD :)) Mình test tính năng của con bot thôi bạn :D  Cảm ơn bạn nha.	2
+giup anh dat xe di	2
+bye	2
+giúp anh đặt xe đi trường cấp 3 tiên lữ	2
 anh đi từ 5 thái hà	2
 anh đi xe riêng 4 chỗ	2
 anh đi tối nay lúc 8h	2
 à anh đi lúc 20h	2
 có anh về lúc 22h	2
 cùng ngày luôn em ạ	2
-không	3
-giá chuyến đi thế nào vậy bạn	1
-tốt đấy, đặt giúp anh luôn nhé	4
-tốt rồi, đặt giúp anh luôn đi em	4
-ok	3
-cảm ơn em	3
-#gioithieu	1
-Cho anh đặt 1 xe 7 chỗ về chùa Thiên mụ	4
+không	2
+giá chuyến đi thế nào vậy bạn	2
+tốt đấy, đặt giúp anh luôn nhé	2
+tốt rồi, đặt giúp anh luôn đi em	2
+ok	2
+cảm ơn em	2
+#gioithieu	2
+Cho anh đặt 1 xe 7 chỗ về chùa Thiên mụ	2
 37 hoàng cầu, hà nội	2
 Sáng mai, 8h nhé	2
 Riêng	2
-Ko	3
-Ko	3
-Ok	3
-Ok	3
-Ok	3
-#gioithieu	1
-Hi	3
-Giúp mình đặt xe đi hà nội	4
-Hi	3
-Hi	3
-Làm sao để tham gia 123xe	1
+Ko	2
+Ko	2
+Ok	2
+Ok	2
+Ok	2
+#gioithieu	2
+Hi	2
+Giúp mình đặt xe đi hà nội	2
+Hi	2
+Hi	2
+Làm sao để tham gia 123xe	2
 3 láng hạ	2
 3 Láng Hạ, Thành Công, Ba Đình, Hà Nội	2
 Ngày mai lúc 8h	2
-Hi	3
-Mình đặt xe đi chung cho 4 người	4
-Ko	3
-Ko	3
-Không	3
-Không	3
-Hi	3
-Giúp mình đặt xe	4
+Hi	2
+Mình đặt xe đi chung cho 4 người	2
+Ko	2
+Ko	2
+Không	2
+Không	2
+Hi	2
+Giúp mình đặt xe	2
 2 láng hạ đi 3 thái hà	2
 Mai, 8h	2
 8h30	2
 Xe cao cấp 🚲🚲	2
 4 thôi	2
-Có	3
-Không có ạ	3
-Đặt giúp mình đi	4
+Có	2
+Không có ạ	2
+Đặt giúp mình đi	2
 Đi đến 3 thái hà mà	2
 3 thái hà	2
-Đúng rồi	3
-Helo	3
-Di xe	0
-Alo	3
-Xin chào	3
-Đặt xe	4
+Đúng rồi	2
+Helo	2
+Di xe	2
+Alo	2
+Xin chào	2
+Đặt xe	2
 Hoàng quốc việt	2
 Láng	2
-Hi	3
-Mình muốn đặt xe	4
+Hi	2
+Mình muốn đặt xe	2
 Ha noi 	2
 Nam dinh	2
-Giá bao nhiêu	1
-Hi	3
-Hi	3
-Hi	3
-Hi	3
-Xin chào	3
-Tôi muốn biết cách thức tham gia 123xe	1
-Ok	3
-Còn nếu tôi muốn đặt xe thì làm ntn	1
-Tôi muốn đặt xe thì làm ntn	1
-Tôi muốn đặt xe	4
+Giá bao nhiêu	2
+Hi	2
+Hi	2
+Hi	2
+Hi	2
+Xin chào	2
+Tôi muốn biết cách thức tham gia 123xe	2
+Ok	2
+Còn nếu tôi muốn đặt xe thì làm ntn	2
+Tôi muốn đặt xe thì làm ntn	2
+Tôi muốn đặt xe	2
 Đi chung	2
 5	2
 5.4	2
@@ -1745,11 +2295,11 @@ Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thu�
 Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
-Xin chào	3
-Ok	3
+Xin chào	2
+Ok	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
-Hi	3
-Tôi muốn đặt xe	4
+Hi	2
+Tôi muốn đặt xe	2
 Suối cá thần cẩm lương, thôm lương ngọc, cẩm lương, cẩm thủy, thanh hóa	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
@@ -1759,89 +2309,89 @@ Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thu�
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
-Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
+select@Suối Cá thần Cẩm Lương, thôn Lương Ngọc, Cẩm Lương, Cẩm Thuỷ, Thanh Hoá	2
 Sáng mai lúc 8h	2
-Ok	3
-Alo	3
-Hỏi điểm ở trên rồi còn hỏi lại à	0
-Jdjdjdjjdjdjssj	0
-Jdjdjdjdjd	0
-Hỏi lặp rồi, quên à?	0
+Ok	2
+Alo	2
+Hỏi điểm ở trên rồi còn hỏi lại à	2
+Jdjdjdjjdjdjssj	2
+Jdjdjdjdjd	2
+Hỏi lặp rồi, quên à?	2
 Bái đính chùa	2
 Cao cấp	2
 4	2
 Có, 4h chiều mai	2
-Ko	3
-ok	3
-Dvffgggffg	0
-Alo	3
-Bạn có những khẳ năng gì?	1
-Bạn có khả năng gì?	1
-Vậy giúp mình đặt xe đi	4
+Ko	2
+ok	2
+Dvffgggffg	2
+Alo	2
+Bạn có những khẳ năng gì?	2
+Bạn có khả năng gì?	2
+Vậy giúp mình đặt xe đi	2
 Mình muốn khởi hành ngày mai lúc 8h đi thái hà	2
 Mình đi từ hưng yên	2
 Mình đi từ thành phố hưng yên luôn	2
-hi bạn	3
-Mình muốn đặt gấp một xe 4 chỗ sáng mai đi Sầm Sơn - Thanh Hóa có được không?	4
+hi bạn	2
+Mình muốn đặt gấp một xe 4 chỗ sáng mai đi Sầm Sơn - Thanh Hóa có được không?	2
 Minh thuê xe 7 chỗ	2
 Mình thuê cả xe 7 chỗ luôn	2
 Mình muốn đặt một xe 4 chỗ đi Thanh Hóa ngày mai	2
 cao cấp	2
 Từ Mỹ Đình Plaza bạn ạ	2
 Mình thuê xe riêng 8 chỗ	2
-Có	3
+Có	2
 8h kém 5 cùng ngày	2
 Ngày mai mà	2
 8h kém 5 nhé	2
 13h kém 5	2
-Ko	3
+Ko	2
 Sầm Sơn	2
-Thôi hủy mai hỏi lại vợ đã	0
+Thôi hủy mai hỏi lại vợ đã	2
 Biển Sầm Sơn	2
-Hủy mag	3
+Hủy mag	2
 8h nhé	2
-Hủy bạn ạ	3
-có	3
-Huy giúp đi	3
+Hủy bạn ạ	2
+có	2
+Huy giúp đi	2
 lúc 19h ngày mai	2
-Hủy đê	3
+Hủy đê	2
 19h	2
-Bye	3
+Bye	2
 23h ngày mai	2
-ko	3
-ok	3
-ok	3
-Giúp mình đặt xe đi hà nội từ trường cấp 3 tiên lữ vào ngày mai lúc 6 giờ kém 5	4
+ko	2
+ok	2
+ok	2
+Giúp mình đặt xe đi hà nội từ trường cấp 3 tiên lữ vào ngày mai lúc 6 giờ kém 5	2
 Hà nội	2
 Ninh bình	2
 Ngã tư sở	2
 Mình thuê xe riêng đi cho thoải mái	2
 10 chỗ	2
 Vậy đặt xe 16 đi	2
-Có	3
+Có	2
 Ngày mai lúc 6 giờ kém 5	2
 6 giờ kém 5	2
 7 giờ kém 2	2
-Ko	3
-Ok ngon đấy	3
-Cảm ơn	3
-Giúp đặt xe đi từ Hà Nội	4
+Ko	2
+Ok ngon đấy	2
+Cảm ơn	2
+Giúp đặt xe đi từ Hà Nội	2
 Ninh bình	2
 Ninh bình	2
 Hưng yên	2
 Trường cấp 3 tiên lữ	2
 Hà nội	2
 Quốc oai	2
-hello	3
-phí dịch vụ ứng dụng áp dụng đối với tài xế là bao nhiêu?	1
-chào bạn	3
-bên bạn có nhiều xe không	1
-mình đặt xe thi phải làm thế nào?	1
-mà mình đặt thử được không	0
-hay phải đặt là phải sử dụng luôn	0
-hi	3
-bye	3
-tôi cần một chuyến đi sân bay ngày mai	4
+hello	2
+phí dịch vụ ứng dụng áp dụng đối với tài xế là bao nhiêu?	2
+chào bạn	2
+bên bạn có nhiều xe không	2
+mình đặt xe thi phải làm thế nào?	2
+mà mình đặt thử được không	2
+hay phải đặt là phải sử dụng luôn	2
+hi	2
+bye	2
+tôi cần một chuyến đi sân bay ngày mai	2
 Gia Lâm	2
 Hà Nọi	2
 cầu đuống	2
@@ -1849,12 +2399,12 @@ Phú Minh, Sóc Sơn, Hà Nội	2
 đi chung bạn ạ	2
 1 người	2
 22h tối	2
-không	3
-không	3
-đúng	3
-đúng	3
-ok	3
-Mình muốn đặt xe	4
+không	2
+không	2
+đúng	2
+đúng	2
+ok	2
+Mình muốn đặt xe	2
 Mình đặt xe riêng	2
 29	2
 7h ngày 26/03 Hà nội sơn tay , 15h sơn Tây Hanoi	2
@@ -1863,37 +2413,37 @@ Mình đặt xe riêng	2
 26:3	2
 '26/3/2017'	2
 26.3.2017	2
-Thôi lằng nhằng quad	0
-Ko thuê nữa	3
-Bb	3
-Xin lỗi, Bạn nhập sai định dạng cho ngày tháng khởi hành (26:3), mời bạn nhập lại theo các định dạng sau '1/1/2017' '1.1.2017' '1.1'.	0
-bye	3
-giup dat xe di Son tay	4
+Thôi lằng nhằng quad	2
+Ko thuê nữa	2
+Bb	2
+Xin lỗi, Bạn nhập sai định dạng cho ngày tháng khởi hành (26:3), mời bạn nhập lại theo các định dạng sau '1/1/2017' '1.1.2017' '1.1'.	2
+bye	2
+giup dat xe di Son tay	2
 minh di vao ngay mai luc 8h sang	2
 ha noi luon	2
 trung tam ha noi co	2
 Minh di tu hung yen	2
-hello	3
-gía cả bên bạn thế nào?	1
-gia ca ben ban the nao?	1
-Chào	3
-tốt đấy, giúp mình đặt một chuyến đi	4
+hello	2
+gía cả bên bạn thế nào?	2
+gia ca ben ban the nao?	2
+Chào	2
+tốt đấy, giúp mình đặt một chuyến đi	2
 tối thứ sáu tuần này lúc 17h30	2
 tối ngày kia lúc 17h	2
 mình đi trường cấp 3 tiên lữ	2
 165 Thái hà	2
-Chị cần đặt xe thì làm tn	1
+Chị cần đặt xe thì làm tn	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 mình đi xe siêu sang 4 chỗ	2
-Ờ	3
-Thế chị cần đặt xe đi chơi	0
-Uhm	3
+Ờ	2
+Thế chị cần đặt xe đi chơi	2
+Uhm	2
 Ngày 16.3	2
 6h sáng nhé	2
 Chị đi lai châu	2
 Hà nội	2
 2 láng hạ	2
-Đi chung là sao nhỉ	1
+Đi chung là sao nhỉ	2
 mình đi xe cao cấp 4 chỗ nhé	2
 cũng được, mình về lúc 6h ngày 20/3	2
 20/3	2
@@ -1901,67 +2451,78 @@ cũng được, mình về lúc 6h ngày 20/3	2
 6h	2
 đón đúng giờ nhé	2
 đón đúng giờ nhé	2
-Tôi muốn biết thế nào là đi chung	1
+Tôi muốn biết thế nào là đi chung	2
 5	2
-Ko	3
-Ko cần	3
+Ko	2
+Ko cần	2
 Tôi đặt chiều đi thôi	2
-No	3
-Ko cần	3
+No	2
+Ko cần	2
 không có lưu ý	2
-xin chafo	0
-Chào	3
-Okie	3
-giup dat xe di 3 thai ha tu 2 lang ha	4
+xin chafo	2
+Chào	2
+Okie	2
+giup dat xe di 3 thai ha tu 2 lang ha	2
 đi chung cho 4 người bạn nhé	2
 ngày hôm nay lúc 17h luôn	2
 18h	2
 18h30	2
 có về lúc 21h	2
-gia ca the nao?	1
-gia ca the nao ban nhi	1
-bye	3
-giup dat xe di 3 thai ha tu 2 lang ha	4
+gia ca the nao?	2
+gia ca the nao ban nhi	2
+bye	2
+giup dat xe di 3 thai ha tu 2 lang ha	2
 ngay hom nau luc 18h30	2
 ngay hom nay	2
 di chung cho 4 nguoi	2
-co	3
-gia ca the nao	1
+co	2
+gia ca the nao	2
 minh ve luc 21h Decode: hi	2
-ko	3
-gia ca the nao	1
-từ từ	0
-không ạ	3
-mình ko cần nữa	3
-mình bảo là không cần nữa mà	3
-đừng nhắn lại nữa	0
-bye	3
-giup dat xe di 3 thai ha	4
+ko	2
+gia ca the nao	2
+từ từ	2
+không ạ	2
+mình ko cần nữa	2
+mình bảo là không cần nữa mà	2
+đừng nhắn lại nữa	2
+bye	2
+giup dat xe di 3 thai ha	2
 biến	2
-gia ca the nao	1
+gia ca the nao	2
 2 lang ha	2
-gia ca the nao	1
+gia ca the nao	2
 ngay hom nay luc 20h	2
 di xe chung cho 4 nguoi	2
 di chung cho 4 nguoi	2
-gia ca the nao	1
-khong	3
-gia ca the nao	1
-Hi	3
-Tôi muốn tham gia 123xe	1
-Giúp đặt xe đi	4
+gia ca the nao	2
+khong	2
+gia ca the nao	2
+giup anh dat xe di tu 2 lang ha toi 3 thai ha	2
+bye	2
+giup anh dat xe di trang an, ninh binh vao sang ngay mai luc 6h30	2
+anh di xe rieng 4 cho	2
+anh di tu 3 thai ha	2
+Tràng An, Trường Yên, Hoa Lư, Ninh Bình 0303620186	2
+có anh về cùng ngày lúc 17h30	2
+ko	2
+ok	2
+ok	2
+ok	2
+Hi	2
+Tôi muốn tham gia 123xe	2
+Giúp đặt xe đi	2
 Ngày mai lúc 8h đi cấp 3 tiên lữ	2
 Thị trấn Vương, Tiên Lữ Hưng Yên, Việt Nam	2
 Hà nội	2
 Đi xe riêng 4 chỗ	2
-Ko	3
-Ko	3
-ok	3
-Chào bạn.	3
-xin chào	3
-Tôi muốn đặt xe	4
-Tôi muốn đặt xe	4
-Tôi muốn đặt xe từ Mỹ đình đi Thường Tín	4
+Ko	2
+Ko	2
+ok	2
+Chào bạn.	2
+xin chào	2
+Tôi muốn đặt xe	2
+Tôi muốn đặt xe	2
+Tôi muốn đặt xe từ Mỹ đình đi Thường Tín	2
 từ sân bay nội bài về khánh công, yên khánh, ninh bình	2
 Xe 4 chỗ	2
 Mỹ Đình, Từ Liêm, Hà Nội	2
@@ -1969,7 +2530,7 @@ ngày 31/03/2017	2
 lúc 8h	2
 xe riêng	2
 4 chỗ	2
-không	3
+không	2
 đón đúng giờ	2
 Xe đi đúng giờ	2
 12	2
@@ -1978,63 +2539,63 @@ Xe đi đúng giờ	2
 không có lưu ý	2
 12/3	2
 4h chiều	2
-không cần	3
-không	3
-ok	3
+không cần	2
+không	2
+ok	2
 tài xế lái xe cẩn thận, xe cốp rộng	2
-bye	3
+bye	2
 tôi không có lưu ý gì	2
-không phải	3
-sai rồi	3
-tôi đặt xe đi từ Từ Liêm đến Quán Gánh Thường Tín	4
-Hello	3
-Can you help me ?	0
-Ok tôi sẽ dùng tiếng việt	0
-alo	3
-giup minh dat xe	4
-giup dat xe	4
+không phải	2
+sai rồi	2
+tôi đặt xe đi từ Từ Liêm đến Quán Gánh Thường Tín	2
+Hello	2
+Can you help me ?	2
+Ok tôi sẽ dùng tiếng việt	2
+alo	2
+giup minh dat xe	2
+giup dat xe	2
 đi chung	2
 cap 3 tien lu, Hung Yen	2
 2 thai ha	2
 3	2
 ngày mai lúc 9h	2
-khong	3
+khong	2
 tài xế lái xe cẩn thận, xe cốp rộng	2
-Hi	3
-Tham gia hệ thống	1
-Tôi muốn tham gia 123xe	1
-Ao	0
-bye	3
-làm sao để trở thành tài xế cho 123xe	1
-Hi	3
-Alo	3
-Tôi muốn đi chơi	0
+Hi	2
+Tham gia hệ thống	2
+Tôi muốn tham gia 123xe	2
+Ao	2
+bye	2
+làm sao để trở thành tài xế cho 123xe	2
+Hi	2
+Alo	2
+Tôi muốn đi chơi	2
 Hay đi sài gon đi	2
-Wao nhiều thế	0
-Alo	3
-hi	3
-giup dat xe	4
+Wao nhiều thế	2
+Alo	2
+hi	2
+giup dat xe	2
 2 lang ha den 3 thai ha	2
 di chung cho 4 nguoi	2
 ngay hom nay luc 19h30	2
 2 lang ha	2
-khong	3
-khong	3
-gia ca the nao	1
-alo	3
-bạn có thể làm gì?	1
-làm sao để mình có thể đặt xe	1
-khách hàng đặt xe như thế nào?	1
-giup minh book mot chuyen	4
+khong	2
+khong	2
+gia ca the nao	2
+alo	2
+bạn có thể làm gì?	2
+làm sao để mình có thể đặt xe	2
+khách hàng đặt xe như thế nào?	2
+giup minh book mot chuyen	2
 Thái hà, hà nội	2
 minh di tu long phu	2
-alo	3
-xin chao	3
-bye	3
-giup dat xe di ha noi	4
+alo	2
+xin chao	2
+bye	2
+giup dat xe di ha noi	2
 long phu, quoc oai, ha noi	2
-bye	3
-giup dat xe	4
+bye	2
+giup dat xe	2
 mình đi xe riêng 3 chỗ	2
 2 thái hà	2
 3 láng hạ	2
@@ -2042,34 +2603,34 @@ mình đi xe riêng 3 chỗ	2
 3 chỗ	2
 80 chỗ đi vậy cho sang	2
 3 láng	2
-?	0
-ban ten gi	0
-bot is good	0
+?	2
+ban ten gi	2
+bot is good	2
 3 Láng, Thượng Đình, Đống Đa, Hà Nội	2
 ngày mai lúc 8h	2
-có	3
+có	2
 ngày mai lúc 9h	2
 9h	2
 10h	2
-khong	3
-dốt quá	0
-ok	3
-chao	0
-dốt quá	0
-Chào	3
-Giá xe 4 chỗ cao cấp	1
-Không. Tôi muốn hỏi giá thôi	1
-Tạm biệt	3
-Tôi muốn đặt xe đi chơi	4
+khong	2
+dốt quá	2
+ok	2
+chao	2
+dốt quá	2
+Chào	2
+Giá xe 4 chỗ cao cấp	2
+Không. Tôi muốn hỏi giá thôi	2
+Tạm biệt	2
+Tôi muốn đặt xe đi chơi	2
 Xe tiết kiệm	2
 Hà nội	2
-bạn có thể làm gì?	1
-Hi	3
-ừ	3
-bạn làm được gì?	1
-câu hỏi hơi ngu tí	0
-xin lỗi bạn	0
-cho mình book xe đi Thanh Hóa, Sầm Sơn nhé bạn	4
+bạn có thể làm gì?	2
+Hi	2
+ừ	2
+bạn làm được gì?	2
+câu hỏi hơi ngu tí	2
+xin lỗi bạn	2
+cho mình book xe đi Thanh Hóa, Sầm Sơn nhé bạn	2
 165 Thái Hà nhé bạn	2
 165 thái Hà, Hà Nội nhé	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
@@ -2078,47 +2639,47 @@ Lúc 8h	2
 à, mình đi vào 30/04	2
 xe cao cấp	2
 4	2
-có chứ	3
+có chứ	2
 02/05 nhé	2
 17h	2
-ko	3
-Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-thanh hóa lúc 8h, về lúc 16h cùng ngày.	4
-by	0
-bye	3
-Bye	3
-Cho tôi đặt một xe 4 chỗ Camry  đi Thanh Hóa	4
+ko	2
+Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-thanh hóa lúc 8h, về lúc 16h cùng ngày.	2
+by	2
+bye	2
+Bye	2
+Cho tôi đặt một xe 4 chỗ Camry  đi Thanh Hóa	2
 Camry	2
 xe cao cấp	2
-Cho đặt 1 xe đi Sầm Sơn - Thanh Hóa	4
+Cho đặt 1 xe đi Sầm Sơn - Thanh Hóa	2
 xe riêng	2
-Hi	3
-Mình muốn đặt xe	4
+Hi	2
+Mình muốn đặt xe	2
 Mình đặt xe riêng	2
 4 cho	2
 7h ngày 26/03 Hà nội sơn tay , 15h sơn Tây Hanoi	2
 Hanoi	2
 son tay	2
 7h00 ngày 26/3/2017	2
-khong can	3
-alo	3
-khong	3
-khong	3
+khong can	2
+alo	2
+khong	2
+khong	2
 27/7	2
-Hi	3
-Cho mình hỏi xe 29 chỗ	1
+Hi	2
+Cho mình hỏi xe 29 chỗ	2
 Hà Nội - Lào Cái	2
 Hà Nội - Lào Cai, Lào Cai	2
 Sân vận động Mỹ Đình	2
 27/03	2
 8:00	2
 Đi riêng	2
-Có	3
+Có	2
 2 chiều	2
 8:00 ngày 27/03	2
 Về 15:00 ngày 28/03	2
-allo	0
-Chào	3
-Tôi muốn đặt xe	4
+allo	2
+Chào	2
+Tôi muốn đặt xe	2
 Xe riêng 4 chỗ	2
 3 láng hạ	2
 3 Láng Hạ, Chợ Dừa, Ba Đình, Hà Nội	2
@@ -2127,14 +2688,14 @@ Hồ Xuân Hương, Tx. Sầm Sơn, Thanh Hoá	2
 10/3	2
 21	2
 21h	2
-Có	3
+Có	2
 10/3	2
 22h	2
-Ko	3
-Hi	3
-Bye	3
-Ko	3
-Tôi muốn đặt xe	4
+Ko	2
+Hi	2
+Bye	2
+Ko	2
+Tôi muốn đặt xe	2
 Xe riêng 4 chỗ	2
 10/3	2
 21	2
@@ -2142,62 +2703,68 @@ Xe riêng 4 chỗ	2
 3 láng hạ	2
 3 Láng Hạ, Chợ Dừa, Ba Đình, Hà Nội	2
 Hồ xuân hương, trường sơn	2
-Có	3
+Có	2
 10/3 22h	2
 22h	2
-Ko	3
-Xin chào	3
-Làm thế nào để mình có thể đặt xe qua hệ thống?	1
-có ứng dụng ở ios kô?	0
-alo	3
-mình vừa hỏi có ứng dụng ở ios không?	0
-ok	3
-mình có thể đặt xe khứ hồi chứ?	1
-mình muốn đặt xe khứ hồi?	4
-giup dat xe	4
+Ko	2
+Xin chào	2
+Làm thế nào để mình có thể đặt xe qua hệ thống?	2
+có ứng dụng ở ios kô?	2
+alo	2
+mình vừa hỏi có ứng dụng ở ios không?	2
+ok	2
+mình có thể đặt xe khứ hồi chứ?	2
+mình muốn đặt xe khứ hồi?	2
+chao	2
+chào em	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h	2
+ko	2
+ko	2
+ok	2
+giup dat xe	2
 3 thai ha tu 2 lang ha	2
 di chung cho 4 nguoi	2
 ngay hom nay luc 19h30	2
-khong	3
-khong	3
-gia ca the nao	1
-Giúp anh đặt xe đi	4
+khong	2
+khong	2
+gia ca the nao	2
+Giúp anh đặt xe đi	2
 Anh đi chiều nay lúc 17h	2
 Đi từ 5 thái hà em nhé	2
 Anh đi trường cấp 3 tiên lữ	2
-Giá các loại xe thế nào em	1
+Giá các loại xe thế nào em	2
 Anh đi xe riêng cho rẻ	2
 Anh đi xe riêng	2
 4	2
-Ko	3
-Ko	3
+Ko	2
+Ko	2
 Anh đi từ hà nội nhé	2
-Hi	3
-Tôi muốn đặt xe	4
+Hi	2
+Tôi muốn đặt xe	2
 Đi chung	2
 5	2
 Láng 	2
-alo	3
-Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-Thanh Hóa lúc 8h, về lúc 16h cùng ngày.	4
+alo	2
+Cho tôi đặt một xe 4 chỗ , sáng mai đi Sầm Sơn-Thanh Hóa lúc 8h, về lúc 16h cùng ngày.	2
 3 lang ha	2
 3 Láng Hạ, Chợ Dừa, Ba Đình, Hà Nội	2
 Mình thích đi xe riêng 2 chỗ	2
-Có	3
+Có	2
 Mình về ngày mai lúc 21h	2
 21h	2
 22h	2
-Ko	3
-Ok đúng rồi đấy	3
+Ko	2
+Ok đúng rồi đấy	2
 3 Láng Hạ, Chợ Dừa, Ba Đình, Hà Nội	2
 3 Láng Hạ, Chợ Dừa, Ba Đình, Hà Nội	2
-bạn thì giúp được cái đếu gì?	0
-Thử cho anh nốt lần này nữa nhé	0
-Em muốn đặt xe đi biển Hải Hòa  - Thanh Hóa vào ngày mai. Xe riêng, 4 chỗ nhé. Đón lúc 8h sáng nhé	4
+bạn thì giúp được cái đếu gì?	2
+Thử cho anh nốt lần này nữa nhé	2
+Em muốn đặt xe đi biển Hải Hòa  - Thanh Hóa vào ngày mai. Xe riêng, 4 chỗ nhé. Đón lúc 8h sáng nhé	2
 Đi từ tòa nhà Sông Hồng, 165 Thái Hà nhé	2
 Tầng M, 165, Tòa nhà Sông Hồng Park View B, Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
-you are fucking stupid	0
-dau roi?	0
-cho đặt xe đi lăng bác cái	4
+you are fucking stupid	2
+dau roi?	2
+cho đặt xe đi lăng bác cái	2
 bây giờ luôn	2
 hôm này lúc 17h luôn bạn nhé	2
 hôm nay luôn	2
@@ -2206,19 +2773,19 @@ mình đi từ 165 thái hà	2
 minh thích đi chung thôi	2
 mình mình thôi	2
 một mình thôi	2
-không	3
-có đặt luôn	4
-ok hết	3
-cho dat xe di	4
+không	2
+có đặt luôn	2
+ok hết	2
+cho dat xe di	2
 mình đi xe riêng 4 chỗ	2
 ngày mai lúc 9h	2
-cho chọn bản đồ đi	1
+cho chọn bản đồ đi	2
 mình xuất phát từ lăng bác cái	2
 lăng bác cái	2
 Lăng bác cái	2
 lăng bác cái	2
-bye	3
-giup dat xe	4
+bye	2
+giup dat xe	2
 165 Thai Ha	2
 20/2	2
 20/3	2
@@ -2228,29 +2795,29 @@ giup dat xe	4
 3 lang ha	2
 3 Láng Hạ, Thành Công, Ba Đình, Hà Nội	2
 minh di xe cao cap	2
-bye	3
-giup dat xe di	4
-djldfdsl;j	0
-dfjlkfjdl;kfj	0
-kdfjd;ls	0
-Bạn có thể làm gì?	1
-đặt	0
-ờ	3
-ok	3
-Hi	3
-Giúp mình đặt xe	4
+bye	2
+giup dat xe di	2
+djldfdsl;j	2
+dfjlkfjdl;kfj	2
+kdfjd;ls	2
+Bạn có thể làm gì?	2
+đặt	2
+ờ	2
+ok	2
+Hi	2
+Giúp mình đặt xe	2
 2 láng hạ	2
-Xin chào	3
+Xin chào	2
 Mình đi từ dolphin plaza, trần bình	2
 Ngày mai	2
 7	2
 Đi xe riêng 4 chỗ	2
-Có mình muốn đặt cả chiều về	4
-Tôi muốn đặt xe	4
+Có mình muốn đặt cả chiều về	2
+Tôi muốn đặt xe	2
 2 láng hạ	2
-Ok	3
-Ok	3
-Đặt xe	4
+Ok	2
+Ok	2
+Đặt xe	2
 Đi chung cho 4 người	2
 Ngày 8/3	2
 3	2
@@ -2259,42 +2826,42 @@ Mình đi từ dolphin plaza, trần bình	2
 3 Láng Hạ, Đống Đa, Hà Nội	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 22/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
-ừ, bot chạy cơm trả lời à?	0
-hay bot chạy điện?	0
-okie, đó là đỉnh cao của bot rồi (y)	0
-A.I về sau nâng cấp cuối cùng là cũng đạt mức chạy = cơm thôi. Replace the mankind ;)	0
-ok	3
-ko sao	3
-nếu cần cứ ới mình :D	0
-alo	3
-Ko	3
-Ko	3
-mình là nữ	0
-vì mình giả vờ khai là nam thôi	0
-bạn không tin khách hàng ư	0
-then why dont you believe in god	0
-you are speaking it	0
-Alo	3
-Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	0
-äöå	0
-Bye	3
-/-heart 	0
-Chào em 👋	3
-Chào anh	3
-Cho anh đặt xe	4
+ừ, bot chạy cơm trả lời à?	2
+hay bot chạy điện?	2
+okie, đó là đỉnh cao của bot rồi (y)	2
+A.I về sau nâng cấp cuối cùng là cũng đạt mức chạy = cơm thôi. Replace the mankind ;)	2
+ok	2
+ko sao	2
+nếu cần cứ ới mình :D	2
+alo	2
+Ko	2
+Ko	2
+mình là nữ	2
+vì mình giả vờ khai là nam thôi	2
+bạn không tin khách hàng ư	2
+then why dont you believe in god	2
+you are speaking it	2
+Alo	2
+Anh thử mac thôi, ối giời (29%!%!''+'!!':!"!?##?+"'!'9382647292/._+$91	2
+äöå	2
+Bye	2
+/-heart 	2
+Chào em 👋	2
+Chào anh	2
+Cho anh đặt xe	2
 Cho em đặt xe đi riêng 7 cho	2
 Đi chung cho 4 người	2
 Anh đi từ 5 thái hà tới trường cấp 3 tiên lữ	2
 Mai	2
 8	2
 Ko	2
-K	0
+K	2
 Anh đi vài ngày mai lúc 17h30	2
-ok	3
-alo	3
-Hi	3
-gia the nao em?	1
-gia tot day, giúp mình một chuyến đi sapa	4
+ok	2
+alo	2
+Hi	2
+gia the nao em?	2
+gia tot day, giúp mình một chuyến đi sapa	2
 Sapa	2
 Sa pa bạn nhé	2
 09 Fansipan Street, Sa Pa, Lao Cai, Lào Cai	2
@@ -2306,13 +2873,46 @@ anh chọn đi chung	2
 có anh về vào cuối tuần lúc 8h sáng	2
 thứ 7 em ạ	2
 25/3	2
-không	3
-hi	3
-bạn có những loại hình thuê xe nào?	1
-bạn có những loại xe nào?	1
-gía cả thể nào bạn	1
-gia ca the nao ban	1
-Hello	3
+không	2
+cho anh đặt một xe riêng 4 chỗ đi tràng an, ninh bình	2
+anh đi xe riêng 4 chỗ	2
+anh đi từ 5 thái hà	2
+anh đi sáng mai lúc 6h30	2
+có anh về cùng ngày lúc 16h	2
+ko	2
+ok	2
+ok	2
+giup anh dat mot chuyen nua	2
+anh di luc 8h	2
+2 lang ha	2
+5 thai ha	2
+anh di xe rieng 4 cho	2
+ko	2
+ko	2
+ok	2
+Alo	2
+cho anh đặt 1 xe 4 chỗ từ Sân Bay Tân Sơn Nhất tới tòa nhà Flemington 182 Lê Đại Hành  nhé	2
+Sân bay Tân Sơn Nhất	2
+anh đi hôm nay , lúc 17h	2
+đi chung nhé	2
+4	2
+ko	2
+ko	2
+okie	2
+okie	2
+okie	2
+giup anh dat xe	2
+bye	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h	2
+ko	2
+ko	2
+ok	2
+hi	2
+bạn có những loại hình thuê xe nào?	2
+bạn có những loại xe nào?	2
+gía cả thể nào bạn	2
+gia ca the nao ban	2
+Hello	2
 Mình muốn đi Tuyên Quang vào 8 giờ ssangs mai	2
 Từ Hà Nội lúc 8 giờ ssang mai	2
 Hà Nội	2
@@ -2320,58 +2920,58 @@ Phường Mai Dịch, Cầu Giấy, Hà Nội	2
 Tuyên Quang	2
 huyện Yên Sơn về thị xã Tuyên Quang	2
 Hàm Yên	2
-Đồ điên, mịa	0
-Ok, nhập Hàm Yên rồi mà không biết là sao	0
-bye	3
-Đồ dở hơi	0
+Đồ điên, mịa	2
+Ok, nhập Hàm Yên rồi mà không biết là sao	2
+bye	2
+Đồ dở hơi	2
 Xã Hàm Yên, Tuyên Quang	2
 Tân Phú, tt. Tân Yên, Hàm Yên, Tuyên Quang	2
 Xe riêng	2
 Xe 16 chỗ	2
-OK	3
+OK	2
 8 gio ngay 20/3	2
 Xe giường nằm	2
-ok	3
-chao	3
-hello bot	3
-tôi muốn đặt xe	4
+ok	2
+chao	2
+hello bot	2
+tôi muốn đặt xe	2
 Trái đất	2
-có điểm nào khác không?	0
-xi chào	0
-chán nhỉ	0
-giá thue xe của mình thế nào?	1
-cách thức đang ký thế nào	1
-chào cưng	3
-có dịch vụ nào khác không?	1
-tôi muốn đặt một xe 4 chỗ	4
+có điểm nào khác không?	2
+xi chào	2
+chán nhỉ	2
+giá thue xe của mình thế nào?	2
+cách thức đang ký thế nào	2
+chào cưng	2
+có dịch vụ nào khác không?	2
+tôi muốn đặt một xe 4 chỗ	2
 hà nội	2
 Dịch Vọng	2
 Nam Định	2
-tôi cần đặt xe	4
+tôi cần đặt xe	2
 Thành Phố Nam ĐỊnh	2
 đi chung	2
 Big C Nam Định	2
 xe riêng	2
 hà nội đi văn giang	2
-bot gì ngu vãi chẳng hiểu gì cả	0
-chào	3
-bye	3
-chaoo	0
-Xin chào	3
+bot gì ngu vãi chẳng hiểu gì cả	2
+chào	2
+bye	2
+chaoo	2
+Xin chào	2
 Cầu Giấy	2
-Xin chaoo	0
-Hello ad	3
+Xin chaoo	2
+Hello ad	2
 Ngách 68/34, Quan Hoa, Cầu Giấy, Hà Nội	2
-Không	3
+Không	2
 Ngách 68/34, Quan Hoa, Cầu Giấy, Hà Nội	2
 Trần Thủ Độ, Thái Bình	2
-xe máy	0
+xe máy	2
 đi chung xe cao cấp	2
 đi chung	2
-alo	3
-Hello ad	3
-mình muốn đặt xe	4
-Không	3
+alo	2
+Hello ad	2
+mình muốn đặt xe	2
+Không	2
 mình đi từ hà nội, đến Huế	2
 15 Trần Phú, Hà Đông	2
 Đà Nẵng	2
@@ -2382,34 +2982,34 @@ Da Nang	2
 cao cấp	2
 1	2
 4	2
-đm hỏi lắm thế	0
-kệ bố	0
+đm hỏi lắm thế	2
+kệ bố	2
 10	2
 8 giờ sáng	2
-ko	3
-ngày kia	3
-đệch, méo nói đấy, ờ =))	0
-111111	0
-11\2	0
-\\1	0
-abc	0
-11102	0
-1111	0
-11	0
-11/1	0
-//11	0
+ko	2
+ngày kia	2
+đệch, méo nói đấy, ờ =))	2
+111111	2
+11\2	2
+\\1	2
+abc	2
+11102	2
+1111	2
+11	2
+11/1	2
+//11	2
 11/02	2
-11/22	0
-22//1	0
+11/22	2
+22//1	2
 23/5	2
 22/5	2
-33//5	0
-532	0
-389	0
+33//5	2
+532	2
+389	2
 3h	2
 mười giờ hai lăm phút	2
-hello	3
-có xe đi Hải Phòng vào ngày mai không nhỉ	1
+hello	2
+có xe đi Hải Phòng vào ngày mai không nhỉ	2
 Hà Nội nhé	2
 Hai Bà Trưng	2
 số 6 Hai Bà Trưng	2
@@ -2418,32 +3018,32 @@ ngõ 234 Tô Hiệu	2
 8h sáng mai	2
 xe riêng	2
 khoảng 4 chỗ thôi	2
-không cần đâu	3
-không	3
-không	3
-đếch cần	0
-không	3
-bye	3
-hi	3
-mình muốn đặt xe về Thái Nguyên	4
+không cần đâu	2
+không	2
+không	2
+đếch cần	2
+không	2
+bye	2
+hi	2
+mình muốn đặt xe về Thái Nguyên	2
 mình muốn đến thành phố Thái Nguyên	2
 mình muốn đến thị trấn Bến Tắm, Chí Linh, Hải Dương	2
 Đội 9, Thị Trấn Bến Tắm, Thị Xã Chí Linh, Hải Dương	2
 bến xe Mỹ ĐÌnh	2
 gần Đại Học QUốc Gia Hà Nôi	2
-giá cả thế nào	1
-mình có cần trả tiền trước không	1
+giá cả thế nào	2
+mình có cần trả tiền trước không	2
 ngày mai	2
 tầm từ 8 đến 10 giờ sáng	2
-đi chung có đắt không	1
+đi chung có đắt không	2
 mỗi mình thôi	2
 1 người	2
-không	3
-không	3
-ko	3
-chaof em	0
-giup anh dat xe di Hung Yen	4
-anh đặt xe đi riêng 4 chỗ	4
+không	2
+không	2
+ko	2
+chaof em	2
+giup anh dat xe di Hung Yen	2
+anh đặt xe đi riêng 4 chỗ	2
 anh đi vào ngày mai lúc 8h tối	2
 anh đi từ hà nội	2
 165 Thái hà	2
@@ -2452,26 +3052,26 @@ có anh về ngày mai lúc 7h tối	2
 ngày mai	2
 vậy ngày kia	2
 anh về ngày kia lúc 22h	2
-ko	3
-ok	3
-cảm ơn em	3
-Alo	3
-Giá cả bên em đắt ko	1
-Giá bên em thế nào	1
-Giá tốt đấy	1
-Giúp anh đặt một chuyến đi hưng yên đi	4
+ko	2
+ok	2
+cảm ơn em	2
+Alo	2
+Giá cả bên em đắt ko	2
+Giá bên em thế nào	2
+Giá tốt đấy	2
+Giúp anh đặt một chuyến đi hưng yên đi	2
 Anh đi xe riêng 4 chỗ em nhé	2
 Anh đi ngày mai lúc 17h30	2
 Anh đi từ 5 thái hà	2
 Anh đi đến trường cấp 3 tiên lữ 	2
 Có anh về vào chủ nhật lúc 10h	2
 28/3	2
-Ko	3
-Ok đặt giúp anh luôn đi	4
-Hello	3
-Em có thể làm gì	1
-Tôi muốn biết Giá thuê xe ở 123xe	1
-Anh muốn thuê xe 4 chỗ	4
+Ko	2
+Ok đặt giúp anh luôn đi	2
+Hello	2
+Em có thể làm gì	2
+Tôi muốn biết Giá thuê xe ở 123xe	2
+Anh muốn thuê xe 4 chỗ	2
 Anh đi xe riêng 4 chỗ	2
 Anh đi từ 165 thái hà	2
 7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
@@ -2479,73 +3079,92 @@ Anh đi hưng yên	2
 Anh đi ngày mai lúc 7h tối	2
 Có ngày kia anh về lúc 6h sáng	2
 Anh về ngày kia	2
-Ko	3
-ok	3
-Giá bên em thế nào nhỉ	1
-Vậy cũng được	3
-Ừ	3
-Mai gặp nhé	0
-Sao	0
+Ko	2
+ok	2
+Giá bên em thế nào nhỉ	2
+Vậy cũng được	2
+Ừ	2
+Mai gặp nhé	2
+Sao	2
 5 thái hà	2
 Anh đi xe riêng	2
 4	2
-Hi	3
-Cho a gặp anh Thành	0
-A ko.goi dau	0
-Hi	3
-Alo	3
-Anh muốn thử một số thứ	0
-Vậy cũng được lắm rồi	0
-Có	3
-Bảo anh Thành giúp anh chưa	0
-alo	3
-jflkd;js	0
-jsl;fjdsj	0
-giup dat xe di tu 2 lang ha toi 3 thai ha luc 20h hom nay	4
+Hi	2
+Cho a gặp anh Thành	2
+A ko.goi dau	2
+Hi	2
+Alo	2
+Anh muốn thử một số thứ	2
+Vậy cũng được lắm rồi	2
+Có	2
+Bảo anh Thành giúp anh chưa	2
+alo	2
+jflkd;js	2
+jsl;fjdsj	2
+giup dat xe di tu 2 lang ha toi 3 thai ha luc 20h hom nay	2
 3 thai ha	2
 2 lang ha	2
-minh dat xe di chung cho 4 nguoi	4
-khong	3
-gia ca the nao day?	1
-ok ngon dat luon	3
-khong	3
-ok	3
-Hi	3
-Cho anh đặt xe đi từ Mỹ Đình plaza 138 trần bình, tới chùa Bái Đính nhé.	4
-xin chào	3
+minh dat xe di chung cho 4 nguoi	2
+khong	2
+gia ca the nao day?	2
+ok ngon dat luon	2
+khong	2
+ok	2
+Hi	2
+Cho anh đặt xe đi từ Mỹ Đình plaza 138 trần bình, tới chùa Bái Đính nhé.	2
+xin chào	2
 Đi riêng 4 chỗ	2
-tôi muốn mua xe	0
+tôi muốn mua xe	2
 8h sáng mai	2
-Không	3
-Ko	3
-gia ca the nao	1
-ok	3
-Giá bao nhiêu bạn?	1
-giup dat xe di 3 thai ha tu 2 lang ha	4
+Không	2
+Ko	2
+gia ca the nao	2
+ok	2
+Giá bao nhiêu bạn?	2
+giup dat xe di 3 thai ha tu 2 lang ha	2
 ngay mai luc 20h	2
-tôi yêu bạn	0
-minh dat xe di chung cho 4 nguoi	4
+tôi yêu bạn	2
+minh dat xe di chung cho 4 nguoi	2
 co minh ve luc 21h	2
-tôi không thích	0
-gia the nao ban	1
+tôi không thích	2
+gia the nao ban	2
 khong co yeu cau gi ca	2
-gia the nao ban	1
-gia ca the nao ban	1
-tong tien la bao nhieu a	1
-gia tien la the nao vay?	1
-gia bao nhieu vay	1
-gia the nao the nhi?	1
-dfsjslkj	0
-bye	3
-dljlkdsfj	0
-dsjfds;lj	0
-djfldsfjl	0
-bye	3
-xin chào	3
-bạn có thể giúp gì cho mình?	1
-alo	3
-Ko	3
-giup mình dat xe di pho noi tu 3 thai ha	4
+gia the nao ban	2
+gia ca the nao ban	2
+tong tien la bao nhieu a	2
+gia tien la the nao vay?	2
+gia bao nhieu vay	2
+gia the nao the nhi?	2
+dfsjslkj	2
+bye	2
+dljlkdsfj	2
+dsjfds;lj	2
+djfldsfjl	2
+bye	2
+xin chào	2
+bạn có thể giúp gì cho mình?	2
+alo	2
+cho anh đặt xe riêng 4 chỗ đi từ 2 láng hạ tới 5 thái hà vào chiều nay lúc 17h	2
+ko	2
+ko	2
+ok	2
+chào 123xe	2
+mình đang cần đặt xe đi Lào cai cuối tuần này	2
+hà nội	2
+165 thái hà	2
+7/165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
+xe riêng 4 chỗ	2
+5h sáng ngày mai	2
+có. cho mình đặt luôn chiều về	2
+có	2
+15h ngày hôm sau	2
+15h ngày kia	2
+ko cần	2
+ok	2
+ok	2
+alo	2
+Ko	2
+giup mình dat xe di pho noi tu 3 thai ha	2
 mình đi phố nối	2
 mình chỉ đi xe cao cấp 4 chỗ thôi	2
 mình đi  luôn chiều này lúc 16h11	2
@@ -2553,9 +3172,9 @@ chiều nay luôn em ạ	2
 16h40	2
 16h50	2
 có về cùng ngày lúc 20h	2
-kh	0
-ok	3
-giup dat xe	4
+kh	2
+ok	2
+giup dat xe	2
 minh di xe rieng 4 cho toi truong cap 3 tien lu tu 165 thai ha	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
@@ -2563,9 +3182,9 @@ mình đi tới trường cấp 3 tiên lữ cơ	2
 ngày mai lúc 8h	2
 Mình đi một chiều	2
 Chiêu, Tam Thanh, Tân Sơn, Phú Thọ	2
-Ko	3
-Khong	3
-Hi	3
+Ko	2
+Khong	2
+Hi	2
 Mình muốn về quê ninh bình	2
 Tam điệp, ninh bình	2
 Phường tây sơn, thành phố tam điệp, ninh bình	2
@@ -2577,36 +3196,69 @@ Khoảng 7 rưỡi	2
 Tối muốn đi xe khoảng 8 người	2
 Đi chung	2
 2 người	2
-Không	3
+Không	2
 Tôi muốn số lượng người trên xe chỉ khoảng 8-10 người, không đông quá.	2
-ok	3
-alo	3
-dsjfdlskj	0
-jldskfjds;	0
-ldjflkj	0
-sdjfljk	0
-giup dat xe di	4
+ok	2
+giúp anh đặt xe đi	2
+anh đi tới 5 thái hà từ 2 láng hạ	2
+anh đi luôn chiều nay lúc 18h	2
+anh đi xe riêng 4 chỗ nhé	2
+có anh về lúc 21h cùng ngày	2
+ko	2
+ok ngon	2
+ok	2
+hi thảo	2
+i am human	2
+thaonp86@gmail.com	2
+Ali	2
+Alo	2
+Toi muốn đi xe	2
+Tôi muốn thuê xe	2
+Luôn và ngay	2
+Ngày mai	2
+Nửa đêm	2
+12h	2
+Cầu chương dương	2
+Sông Tô Lịch	2
+Cao cấp chứ	2
+xe cao cấp	2
+100	2
+80	2
+Không	2
+Không	2
+Hủy nhé	2
+Hủy	2
+Alo	2
+😇	2
+😍	2
+😘	2
+alo	2
+dsjfdlskj	2
+jldskfjds;	2
+ldjflkj	2
+sdjfljk	2
+giup dat xe di	2
 minh di xe rieng 4 cho tu 2 lang ha toi 3 thai ha	2
 minh di ngay mai luc 8h	2
 2 lang ha	2
 3 thai ha	2
-khoi	3
-khong	3
-gia ca the nao ban	1
-gia ca the nao ba	1
-chào bot	3
-cô hai tên gì?	0
-ơ, vậy là bot if else à :v	0
-alo	3
+khoi	2
+khong	2
+gia ca the nao ban	2
+gia ca the nao ba	2
+chào bot	2
+cô hai tên gì?	2
+ơ, vậy là bot if else à :v	2
+alo	2
 tui ở cầu sài gòn	2
-tôi ở cầu sài gòn muốn ra bến xe miền tây phải làm sao	1
-alo	3
-alo	3
-tôi ở cầu sài gòn muốn ra bến xe miền tây phải làm sao	1
-123xe là gì?	1
-tôi phải làm sao?	0
-rồi gì nữa?	0
-cho tui đặt xe từ cầu sài gòn ra bến xe miền tây	4
+tôi ở cầu sài gòn muốn ra bến xe miền tây phải làm sao	2
+alo	2
+alo	2
+tôi ở cầu sài gòn muốn ra bến xe miền tây phải làm sao	2
+123xe là gì?	2
+tôi phải làm sao?	2
+rồi gì nữa?	2
+cho tui đặt xe từ cầu sài gòn ra bến xe miền tây	2
 đến bến xe miền tây	2
 bến xe miền tây	2
 395 KINH DƯƠNG VƯƠNG, AN LẠC, HỒ CHÍ MINH	2
@@ -2617,25 +3269,25 @@ lúc 21h tối	2
 xe riêng	2
 2 chổ	2
 80 chổ	2
-ok men	3
+ok men	2
 ngày mốt	2
 00h	2
-không	3
-khoang đã, tôi muốn đổi điểm đi	0
+không	2
+khoang đã, tôi muốn đổi điểm đi	2
 điểm đi, cầu sài gòn	2
-Alo	3
-Ok	3
-Alo	3
-Không	3
-Bye	3
-Không	3
-Chào em cho anh hỏi thăm tí	3
-Bạn có khỏe ko?	0
-Mình tán gẫu tí nhé	0
-Bạn yêu virus không?	0
-hl	0
-xin	0
-toi muon dat xe	4
+Alo	2
+Ok	2
+Alo	2
+Không	2
+Bye	2
+Không	2
+Chào em cho anh hỏi thăm tí	2
+Bạn có khỏe ko?	2
+Mình tán gẫu tí nhé	2
+Bạn yêu virus không?	2
+hl	2
+xin	2
+toi muon dat xe	2
 Ha Tinh	2
 Tp HA TINH	2
 Bến Xe Hà Tĩnh	2
@@ -2647,17 +3299,17 @@ Hà Nội vào ngày 15/03/2016	2
 Hà Nội vào ngày 15/03/2017	2
 19h	2
 đi chung 10 người	2
-nỏ cần	0
-không	3
-không	3
-sai rồi	3
-ok	3
-ok	3
-ko	3
-ko	3
-no	3
-alo	3
-đêm rồi	0
+nỏ cần	2
+không	2
+không	2
+sai rồi	2
+ok	2
+ok	2
+ko	2
+ko	2
+no	2
+alo	2
+đêm rồi	2
 đi hà nội	2
 vũng tàu	2
 mù cang chải	2
@@ -2666,38 +3318,38 @@ số 7 ngọc thụy, đống đa, hà nội	2
 số 8 ngọc thụy, hà nội	2
 ngọc thụy 8/2	2
 ngọc thụy 8/4	2
-cứt giờ	0
+cứt giờ	2
 8	2
-Đặt xe	4
-đặt xe	4
-bye	3
-Đặt xe	4
-bye	3
-gia ca the nao	1
-Đặt xe	4
-Đặt xe	4
-bye	3
-Đặt xe	4
-Đặt xe	4
-Đặt xe	4
-Đặt xe	4
-bye	3
-test trả lời tự động	0
-hi	3
+Đặt xe	2
+đặt xe	2
+bye	2
+Đặt xe	2
+bye	2
+gia ca the nao	2
+Đặt xe	2
+Đặt xe	2
+bye	2
+Đặt xe	2
+Đặt xe	2
+Đặt xe	2
+Đặt xe	2
+bye	2
+test trả lời tự động	2
+hi	2
 xe tu Long Bien toi My DInh	2
-xe may	0
-di bang uber	0
+xe may	2
+di bang uber	2
 xe cao cấp	2
 1	2
 Hi	2
-Chào 123xe	3
+Chào 123xe	2
 Thế cho mình đặt xe đi chung đi	2
 Đến 2 láng	2
-alo	3
+alo	2
 2 Láng, Ngã Tư Sở, Đống Đa, Hà Nội	2
-gia ben ban the nao?	1
+gia ben ban the nao?	2
 3 hoàng hoa thám	2
-giá đặt xe có cao không em	1
+giá đặt xe có cao không em	2
 anh đi từ 2 láng hạ đến 3 thái hà vào chiều nay	2
 2 láng hạ	2
 3 thái hà	2
@@ -2706,7 +3358,7 @@ anh đi từ 2 láng hạ đến 3 thái hà vào chiều nay	2
 3.4	2
 5h kém 15	2
 5	2
-Có	3
+Có	2
 Mình đặt cả chiều về	2
 5h ngày 4.4	2
 5 Thái Hà, Trung Liệt, Đống Đa, Hà Nội	2
@@ -2714,51 +3366,51 @@ Cho tôi ngồi phía đầu xe	2
 lúc 14h	2
 mình đi chung cho rẻ	2
 mình chọn đi chung bạn ạ	2
-ok	3
+ok	2
 mỗi mình thôi	2
 một mình	2
-Ok. Cảm ơn	3
-👹	0
+Ok. Cảm ơn	2
+👹	2
 có về cùng ngày lúc 20h	2
-khong	3
-ok	3
-ok	3
-ok	3
-giup dat xe	4
-alo	3
-gia ben ban the nao vay	1
-ok, vậy anh muốn đặt xe đi tới 3 thái hà từ 2 láng hạ vào chiều này lúc 17h	4
-ơ, cho anh đặt xe đi tới 3 thái hà từ 2 láng hạ vào chiều này lúc 17h	4
+khong	2
+ok	2
+ok	2
+ok	2
+giup dat xe	2
+alo	2
+gia ben ban the nao vay	2
+ok, vậy anh muốn đặt xe đi tới 3 thái hà từ 2 láng hạ vào chiều này lúc 17h	2
+ơ, cho anh đặt xe đi tới 3 thái hà từ 2 láng hạ vào chiều này lúc 17h	2
 chiều nay luôn em ạ	2
 5 Thái Hà, Trung Liệt, Đống Đa, Hà Nội	2
 anh đi xe cao cấp 4 chỗ nhé	2
 có mình về lúc 20h	2
 không có lưu ý đâu em	2
-gia ca the nao day ban	1
-ok	3
-ok giúp anh đặt một chuyến đi chung	4
-giup anh đặt chuyến xe di chung đi	4
-giúp anh đặt một chuyến xe đi chung	4
-bye	3
-đặt giúp anh một xe cao cấp 4 chỗ đi cấp 3 tiễn lữ từ 165 thái hà	4
+gia ca the nao day ban	2
+ok	2
+ok giúp anh đặt một chuyến đi chung	2
+giup anh đặt chuyến xe di chung đi	2
+giúp anh đặt một chuyến xe đi chung	2
+bye	2
+đặt giúp anh một xe cao cấp 4 chỗ đi cấp 3 tiễn lữ từ 165 thái hà	2
 mình đi xe cao cấp bạn ạ	2
 mình đi vào ngày mai lúc 17h30	2
 20/ 165 Thái Hà, Láng Hạ, Đống Đa, Hà Nội	2
 trường cấp 3 tiễn lữ	2
 có anh về vào ngày 20/3 lúc 6h sáng	2
-hello	3
-giá cả thế nào	1
-hotline cái bai	0
-anh chỉ muốn chat thôi	0
-đặt xe từ nội bài về tây mỗ ngày 17/4 thì sao	4
+hello	2
+giá cả thế nào	2
+hotline cái bai	2
+anh chỉ muốn chat thôi	2
+đặt xe từ nội bài về tây mỗ ngày 17/4 thì sao	2
 xe riêng	2
 4 chỗ, cốp rộng	2
 nội bài	2
 tây mỗ	2
 Tây Mỗ, Từ Liêm, Hà Nội	2
 8h30	2
-ko	3
-ko	3
-ko	3
-Alo	3
-Alo	3
+ko	2
+ko	2
+ko	2
+Alo	2
+Alo	2

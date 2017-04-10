@@ -101,10 +101,10 @@ def explore(data_file):
 
 def main():
     data_file = 'chat.txt'
-    # test(data_file)
+    test(data_file)
     # get_dic()
     # make_csv(data_file)
-    explore(data_file)
+    # explore(data_file)
 
 
 if __name__ == '__main__':
